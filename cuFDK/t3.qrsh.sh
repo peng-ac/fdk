@@ -1,0 +1,1 @@
+qrsh -g tgb-ebdcrest -l f_node=1 -l h_rt=8:00:00

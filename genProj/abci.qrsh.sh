@@ -1,0 +1,1 @@
+ qrsh -g gaa50008 -l rt_F=1

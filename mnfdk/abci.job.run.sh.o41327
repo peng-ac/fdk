@@ -1,0 +1,3815 @@
+PATH=/home/aaa10008ku/local/openmpi-3.1.0/bin:/home/aaa10008ku/local/gcc-5.4/bin:/home/aaa10008ku/local/sshpass-1.05:/home/aaa10008ku/local/htop-2.2.0:/home/aaa10008ku/local/cmake/bin:/home/aaa10008ku/local/bin:/tmp/41327.1.gpu:/usr/local/bin:/bin:/usr/bin
+LD_LIBRARY_PATH=/home/aaa10008ku/local/cuda-9.0/lib64:/home/aaa10008ku/local/openmpi-3.1.1/lib64:/home/aaa10008ku/local/openmpi-3.1.0/lib:/home/aaa10008ku/local/intel/compilers_and_libraries_2018.1.163/linux/ipp/lib/intel64:/home/aaa10008ku/local/gcc-5.4/lib64:/home/aaa10008ku/local/lib
+LOCAL_PATH=/home/aaa10008ku/local
+HOME=/home/aaa10008ku
+MPIRUN=/home/aaa10008ku/local/openmpi-3.1.0/bin/mpirun
+hostname=g0205.abci.local, rank=1, size=270, pid=32849
+hostname=g0205.abci.local, rank=3, size=270, pid=32851
+g0205.abci.local,rank=3,size=270,group=9,group_id=0,id_in_group=3
+g0205.abci.local : 3 Rcv from : 268
+hostname=g0205.abci.local, rank=5, size=270, pid=32880
+g0205.abci.local,rank=5,size=270,group=9,group_id=0,id_in_group=5
+5 Snd to : 10
+hostname=g0205.abci.local, rank=0, size=270, pid=32848
+g0205.abci.local,rank=0,size=270,group=9,group_id=0,id_in_group=0
+0 compute : 0
+hostname=g0205.abci.local, rank=2, size=270, pid=32850
+g0205.abci.local,rank=2,size=270,group=9,group_id=0,id_in_group=2
+g0205.abci.local : 2 Rcv from : 267
+g0205.abci.local,rank=1,size=270,group=9,group_id=0,id_in_group=1
+g0205.abci.local : 1 Rcv from : 266
+hostname=g0205.abci.local, rank=8, size=270, pid=33090
+g0205.abci.local,rank=8,size=270,group=9,group_id=0,id_in_group=8
+8 Snd to : 13
+hostname=g0218.abci.local, rank=119, size=270, pid=35157
+g0218.abci.local,rank=119,size=270,group=9,group_id=13,id_in_group=2
+g0218.abci.local : 119 Rcv from : 114
+hostname=g0228.abci.local, rank=210, size=270, pid=35164
+g0228.abci.local,rank=210,size=270,group=9,group_id=23,id_in_group=3
+g0228.abci.local : 210 Rcv from : 205
+hostname=g0217.abci.local, rank=109, size=270, pid=14223
+hostname=g0228.abci.local, rank=212, size=270, pid=35175
+hostname=g0206.abci.local, rank=9, size=270, pid=14302
+g0206.abci.local,rank=9,size=270,group=9,group_id=1,id_in_group=0
+9 compute : 0
+hostname=g0206.abci.local, rank=13, size=270, pid=14306
+g0206.abci.local,rank=13,size=270,group=9,group_id=1,id_in_group=4
+g0206.abci.local : 13 Rcv from : 8
+hostname=g0218.abci.local, rank=121, size=270, pid=35159
+g0218.abci.local,rank=121,size=270,group=9,group_id=13,id_in_group=4
+g0218.abci.local : 121 Rcv from : 116
+hostname=g0218.abci.local, rank=123, size=270, pid=35205
+g0218.abci.local,rank=123,size=270,group=9,group_id=13,id_in_group=6
+123 Snd to : 128
+hostname=g0228.abci.local, rank=214, size=270, pid=35402
+hostname=g0206.abci.local, rank=15, size=270, pid=14365
+g0206.abci.local,rank=15,size=270,group=9,group_id=1,id_in_group=6
+15 Snd to : 20
+hostname=g0218.abci.local, rank=125, size=270, pid=35437
+g0218.abci.local,rank=125,size=270,group=9,group_id=13,id_in_group=8
+125 Snd to : 130
+hostname=g0218.abci.local, rank=117, size=270, pid=35155
+g0218.abci.local,rank=117,size=270,group=9,group_id=13,id_in_group=0
+117 compute : 0
+hostname=g0218.abci.local, rank=118, size=270, pid=35156
+g0218.abci.local,rank=118,size=270,group=9,group_id=13,id_in_group=1
+g0218.abci.local : 118 Rcv from : 113
+hostname=g0218.abci.local, rank=120, size=270, pid=35158
+g0218.abci.local,rank=120,size=270,group=9,group_id=13,id_in_group=3
+g0218.abci.local : 120 Rcv from : 115
+hostname=g0217.abci.local, rank=111, size=270, pid=14225
+g0217.abci.local,rank=111,size=270,group=9,group_id=12,id_in_group=3
+g0217.abci.local : 111 Rcv from : 106
+hostname=g0206.abci.local, rank=14, size=270, pid=14307
+hostname=g0210.abci.local, rank=46, size=270, pid=35521
+g0210.abci.local,rank=46,size=270,group=9,group_id=5,id_in_group=1
+hostname=g0218.abci.local, rank=122, size=270, pid=35160
+g0218.abci.local,rank=122,size=270,group=9,group_id=13,id_in_group=5
+122 Snd to : 127
+hostname=g0217.abci.local, rank=113, size=270, pid=14227
+hostname=g0219.abci.local, rank=129, size=270, pid=35633
+g0219.abci.local,rank=129,size=270,group=9,group_id=14,id_in_group=3
+g0219.abci.local : 129 Rcv from : 124
+hostname=g0231.abci.local, rank=236, size=270, pid=34342
+g0231.abci.local,rank=236,size=270,group=9,group_id=26,id_in_group=2
+g0231.abci.local : 236 Rcv from : 231
+hostname=g0206.abci.local, rank=16, size=270, pid=14443
+g0206.abci.local,rank=16,size=270,group=9,group_id=1,id_in_group=7
+16 Snd to : 21
+hostname=g0210.abci.local, rank=52, size=270, pid=35761
+g0210.abci.local,rank=52,size=270,group=9,group_id=5,id_in_group=7
+52 Snd to : 57
+hostname=g0218.abci.local, rank=124, size=270, pid=35397
+g0218.abci.local,rank=124,size=270,group=9,group_id=13,id_in_group=7
+124 Snd to : 129
+hostname=g0217.abci.local, rank=115, size=270, pid=14469
+hostname=g0231.abci.local, rank=240, size=270, pid=34389
+g0231.abci.local,rank=240,size=270,group=9,group_id=26,id_in_group=6
+240 Snd to : 245
+hostname=g0206.abci.local, rank=17, size=270, pid=14572
+g0206.abci.local,rank=17,size=270,group=9,group_id=1,id_in_group=8
+17 Snd to : 22
+hostname=g0210.abci.local, rank=47, size=270, pid=35522
+g0210.abci.local,rank=47,size=270,group=9,group_id=5,id_in_group=2
+g0210.abci.local : 47 Rcv from : 42
+hostname=g0208.abci.local, rank=32, size=270, pid=35096
+hostname=g0209.abci.local, rank=37, size=270, pid=34968
+hostname=g0217.abci.local, rank=108, size=270, pid=14222
+g0217.abci.local,rank=108,size=270,group=9,group_id=12,id_in_group=0
+108 compute : 0
+hostname=g0228.abci.local, rank=211, size=270, pid=35165
+g0228.abci.local,rank=211,size=270,group=9,group_id=23,id_in_group=4
+g0228.abci.local : 211 Rcv from : 206
+hostname=g0231.abci.local, rank=234, size=270, pid=34340
+g0231.abci.local,rank=234,size=270,group=9,group_id=26,id_in_group=0
+234 compute : 0
+hostname=g0206.abci.local, rank=10, size=270, pid=14303
+g0206.abci.local,rank=10,size=270,group=9,group_id=1,id_in_group=1
+g0206.abci.local : 10 Rcv from : 5
+hostname=g0210.abci.local, rank=48, size=270, pid=35523
+g0210.abci.local,rank=48,size=270,group=9,group_id=5,id_in_group=3
+g0210.abci.local : 48 Rcv from : 43
+hostname=g0208.abci.local, rank=27, size=270, pid=35091
+hostname=g0209.abci.local, rank=39, size=270, pid=34970
+g0209.abci.local,rank=39,size=270,group=9,group_id=4,id_in_group=3
+g0209.abci.local : 39 Rcv from : 34
+hostname=g0207.abci.local, rank=24, size=270, pid=14119
+g0207.abci.local,rank=24,size=270,group=9,group_id=2,id_in_group=6
+24 Snd to : 29
+g0217.abci.local,rank=109,size=270,group=9,group_id=12,id_in_group=1
+g0217.abci.local : 109 Rcv from : 104
+hostname=g0213.abci.local, rank=72, size=270, pid=36197
+hostname=g0219.abci.local, rank=126, size=270, pid=35630
+hostname=g0223.abci.local, rank=162, size=270, pid=35234
+g0223.abci.local,rank=162,size=270,group=9,group_id=18,id_in_group=0
+162 compute : 0
+hostname=g0212.abci.local, rank=65, size=270, pid=35573
+g0212.abci.local,rank=65,size=270,group=9,group_id=7,id_in_group=2
+g0212.abci.local : 65 Rcv from : 60
+hostname=g0228.abci.local, rank=213, size=270, pid=35220
+g0228.abci.local,rank=213,size=270,group=9,group_id=23,id_in_group=6
+213 Snd to : 218
+hostname=g0231.abci.local, rank=235, size=270, pid=34341
+g0231.abci.local,rank=235,size=270,group=9,group_id=26,id_in_group=1
+hostname=g0206.abci.local, rank=11, size=270, pid=14304
+g0206.abci.local,rank=11,size=270,group=9,group_id=1,id_in_group=2
+g0206.abci.local : 11 Rcv from : 6
+hostname=g0210.abci.local, rank=49, size=270, pid=35524
+g0210.abci.local,rank=49,size=270,group=9,group_id=5,id_in_group=4
+g0210.abci.local : 49 Rcv from : 44
+hostname=g0209.abci.local, rank=41, size=270, pid=34972
+hostname=g0225.abci.local, rank=180, size=270, pid=34674
+g0225.abci.local,rank=180,size=270,group=9,group_id=20,id_in_group=0
+180 compute : 0
+hostname=g0217.abci.local, rank=114, size=270, pid=14285
+g0217.abci.local,rank=114,size=270,group=9,group_id=12,id_in_group=6
+114 Snd to : 119
+hostname=g0213.abci.local, rank=74, size=270, pid=36199
+hostname=g0219.abci.local, rank=127, size=270, pid=35631
+g0219.abci.local,rank=127,size=270,group=9,group_id=14,id_in_group=1
+g0219.abci.local : 127 Rcv from : 122
+hostname=g0223.abci.local, rank=163, size=270, pid=35235
+g0223.abci.local,rank=163,size=270,group=9,group_id=18,id_in_group=1
+g0223.abci.local : 163 Rcv from : 158
+hostname=g0212.abci.local, rank=68, size=270, pid=35576
+g0212.abci.local,rank=68,size=270,group=9,group_id=7,id_in_group=5
+68 Snd to : 73
+g0228.abci.local,rank=212,size=270,group=9,group_id=23,id_in_group=5
+212 Snd to : 217
+hostname=g0231.abci.local, rank=238, size=270, pid=34344
+g0231.abci.local,rank=238,size=270,group=9,group_id=26,id_in_group=4
+g0231.abci.local : 238 Rcv from : 233
+hostname=g0206.abci.local, rank=12, size=270, pid=14305
+g0206.abci.local,rank=12,size=270,group=9,group_id=1,id_in_group=3
+g0206.abci.local : 12 Rcv from : 7
+hostname=g0210.abci.local, rank=50, size=270, pid=35525
+g0210.abci.local,rank=50,size=270,group=9,group_id=5,id_in_group=5
+50 Snd to : 55
+hostname=g0208.abci.local, rank=35, size=270, pid=35372
+hostname=g0209.abci.local, rank=43, size=270, pid=35208
+g0209.abci.local,rank=43,size=270,group=9,group_id=4,id_in_group=7
+43 Snd to : 48
+hostname=g0225.abci.local, rank=181, size=270, pid=34675
+g0225.abci.local,rank=181,size=270,group=9,group_id=20,id_in_group=1
+g0225.abci.local : 181 Rcv from : 176
+hostname=g0207.abci.local, rank=26, size=270, pid=14353
+g0207.abci.local,rank=26,size=270,group=9,group_id=2,id_in_group=8
+26 Snd to : 31
+g0217.abci.local,rank=115,size=270,group=9,group_id=12,id_in_group=7
+115 Snd to : 120
+hostname=g0213.abci.local, rank=75, size=270, pid=36200
+hostname=g0215.abci.local, rank=95, size=270, pid=34866
+g0215.abci.local,rank=95,size=270,group=9,group_id=10,id_in_group=5
+95 Snd to : 100
+hostname=g0220.abci.local, rank=135, size=270, pid=13490
+hostname=g0219.abci.local, rank=128, size=270, pid=35632
+g0219.abci.local,rank=128,size=270,group=9,group_id=14,id_in_group=2
+g0219.abci.local : 128 Rcv from : 123
+hostname=g0223.abci.local, rank=164, size=270, pid=35236
+g0223.abci.local,rank=164,size=270,group=9,group_id=18,id_in_group=2
+g0223.abci.local : 164 Rcv from : 159
+hostname=g0227.abci.local, rank=199, size=270, pid=35018
+g0227.abci.local,rank=199,size=270,group=9,group_id=22,id_in_group=1
+g0227.abci.local : 199 Rcv from : 194
+hostname=g0212.abci.local, rank=69, size=270, pid=35620
+g0212.abci.local,rank=69,size=270,group=9,group_id=7,id_in_group=6
+69 Snd to : 74
+hostname=g0228.abci.local, rank=215, size=270, pid=35442
+g0228.abci.local,rank=215,size=270,group=9,group_id=23,id_in_group=8
+215 Snd to : 220
+hostname=g0224.abci.local, rank=173, size=270, pid=13605
+hostname=g0230.abci.local, rank=226, size=270, pid=34778
+g0230.abci.local,rank=226,size=270,group=9,group_id=25,id_in_group=1
+g0230.abci.local : 226 Rcv from : 221
+hostname=g0233.abci.local, rank=252, size=270, pid=35696
+g0233.abci.local,rank=252,size=270,group=9,group_id=28,id_in_group=0
+252 compute : 0
+hostname=g0231.abci.local, rank=242, size=270, pid=34582
+g0231.abci.local,rank=242,size=270,group=9,group_id=26,id_in_group=8
+242 Snd to : 247
+hostname=g0229.abci.local, rank=216, size=270, pid=14117
+g0229.abci.local,rank=216,size=270,group=9,group_id=24,id_in_group=0
+216 compute : 0
+hostname=g0221.abci.local, rank=144, size=270, pid=12773
+g0221.abci.local,rank=144,size=270,group=9,group_id=16,id_in_group=0
+144 compute : 0
+g0206.abci.local,rank=14,size=270,group=9,group_id=1,id_in_group=5
+14 Snd to : 19
+hostname=g0210.abci.local, rank=51, size=270, pid=35569
+g0210.abci.local,rank=51,size=270,group=9,group_id=5,id_in_group=6
+51 Snd to : 56
+g0208.abci.local,rank=27,size=270,group=9,group_id=3,id_in_group=0
+27 compute : 0
+hostname=g0209.abci.local, rank=36, size=270, pid=34967
+g0209.abci.local,rank=36,size=270,group=9,group_id=4,id_in_group=0
+36 compute : 0
+hostname=g0225.abci.local, rank=182, size=270, pid=34676
+g0225.abci.local,rank=182,size=270,group=9,group_id=20,id_in_group=2
+g0225.abci.local : 182 Rcv from : 177
+hostname=g0207.abci.local, rank=18, size=270, pid=14070
+g0207.abci.local,rank=18,size=270,group=9,group_id=2,id_in_group=0
+18 compute : 0
+hostname=g0217.abci.local, rank=110, size=270, pid=14224
+g0217.abci.local,rank=110,size=270,group=9,group_id=12,id_in_group=2
+g0217.abci.local : 110 Rcv from : 105
+hostname=g0213.abci.local, rank=76, size=270, pid=36201
+hostname=g0215.abci.local, rank=97, size=270, pid=35027
+g0215.abci.local,rank=97,size=270,group=9,group_id=10,id_in_group=7
+97 Snd to : 102
+hostname=g0220.abci.local, rank=138, size=270, pid=13494
+hostname=g0219.abci.local, rank=130, size=270, pid=35634
+g0219.abci.local,rank=130,size=270,group=9,group_id=14,id_in_group=4
+g0219.abci.local : 130 Rcv from : 125
+hostname=g0223.abci.local, rank=165, size=270, pid=35237
+g0223.abci.local,rank=165,size=270,group=9,group_id=18,id_in_group=3
+g0223.abci.local : 165 Rcv from : 160
+hostname=g0212.abci.local, rank=70, size=270, pid=35695
+g0212.abci.local,rank=70,size=270,group=9,group_id=7,id_in_group=7
+70 Snd to : 75
+g0228.abci.local,rank=214,size=270,group=9,group_id=23,id_in_group=7
+214 Snd to : 219
+hostname=g0224.abci.local, rank=179, size=270, pid=13866
+hostname=g0230.abci.local, rank=227, size=270, pid=34779
+g0230.abci.local,rank=227,size=270,group=9,group_id=25,id_in_group=2
+g0230.abci.local : 227 Rcv from : 222
+hostname=g0233.abci.local, rank=254, size=270, pid=35698
+g0233.abci.local,rank=254,size=270,group=9,group_id=28,id_in_group=2
+g0233.abci.local : 254 Rcv from : 249
+hostname=g0231.abci.local, rank=237, size=270, pid=34343
+g0231.abci.local,rank=237,size=270,group=9,group_id=26,id_in_group=3
+g0231.abci.local : 237 Rcv from : 232
+hostname=g0232.abci.local, rank=244, size=270, pid=35166
+g0232.abci.local,rank=244,size=270,group=9,group_id=27,id_in_group=1
+g0232.abci.local : 244 Rcv from : 239
+hostname=g0229.abci.local, rank=220, size=270, pid=14121
+g0229.abci.local,rank=220,size=270,group=9,group_id=24,id_in_group=4
+g0229.abci.local : 220 Rcv from : 215
+hostname=g0222.abci.local, rank=161, size=270, pid=13461
+g0222.abci.local,rank=161,size=270,group=9,group_id=17,id_in_group=8
+161 Snd to : 166
+hostname=g0221.abci.local, rank=150, size=270, pid=12851
+g0221.abci.local,rank=150,size=270,group=9,group_id=16,id_in_group=6
+150 Snd to : 155
+hostname=g0211.abci.local, rank=54, size=270, pid=12842
+g0211.abci.local,rank=54,size=270,group=9,group_id=6,id_in_group=0
+54 compute : 0
+g0210.abci.local : 46 Rcv from : 41
+hostname=g0208.abci.local, rank=29, size=270, pid=35093
+g0208.abci.local,rank=29,size=270,group=9,group_id=3,id_in_group=2
+g0208.abci.local : 29 Rcv from : 24
+hostname=g0209.abci.local, rank=38, size=270, pid=34969
+g0209.abci.local,rank=38,size=270,group=9,group_id=4,id_in_group=2
+g0209.abci.local : 38 Rcv from : 33
+hostname=g0225.abci.local, rank=183, size=270, pid=34677
+g0225.abci.local,rank=183,size=270,group=9,group_id=20,id_in_group=3
+g0225.abci.local : 183 Rcv from : 178
+hostname=g0207.abci.local, rank=20, size=270, pid=14072
+g0207.abci.local,rank=20,size=270,group=9,group_id=2,id_in_group=2
+g0207.abci.local : 20 Rcv from : 15
+hostname=g0217.abci.local, rank=112, size=270, pid=14226
+g0217.abci.local,rank=112,size=270,group=9,group_id=12,id_in_group=4
+g0217.abci.local : 112 Rcv from : 107
+hostname=g0213.abci.local, rank=78, size=270, pid=36252
+hostname=g0215.abci.local, rank=92, size=270, pid=34863
+g0215.abci.local,rank=92,size=270,group=9,group_id=10,id_in_group=2
+hostname=g0220.abci.local, rank=139, size=270, pid=13495
+hostname=g0219.abci.local, rank=131, size=270, pid=35652
+hostname=g0223.abci.local, rank=166, size=270, pid=35238
+g0223.abci.local,rank=166,size=270,group=9,group_id=18,id_in_group=4
+g0223.abci.local : 166 Rcv from : 161
+hostname=g0234.abci.local, rank=261, size=270, pid=34491
+g0234.abci.local,rank=261,size=270,group=9,group_id=29,id_in_group=0
+261 compute : 0
+hostname=g0227.abci.local, rank=201, size=270, pid=35020
+g0227.abci.local,rank=201,size=270,group=9,group_id=22,id_in_group=3
+g0227.abci.local : 201 Rcv from : 196
+hostname=g0212.abci.local, rank=71, size=270, pid=35852
+g0212.abci.local,rank=71,size=270,group=9,group_id=7,id_in_group=8
+71 Snd to : 76
+hostname=g0226.abci.local, rank=189, size=270, pid=14601
+hostname=g0228.abci.local, rank=207, size=270, pid=35161
+g0228.abci.local,rank=207,size=270,group=9,group_id=23,id_in_group=0
+207 compute : 0
+hostname=g0224.abci.local, rank=177, size=270, pid=13690
+hostname=g0230.abci.local, rank=228, size=270, pid=34780
+g0230.abci.local,rank=228,size=270,group=9,group_id=25,id_in_group=3
+g0230.abci.local : 228 Rcv from : 223
+hostname=g0233.abci.local, rank=256, size=270, pid=35700
+g0233.abci.local,rank=256,size=270,group=9,group_id=28,id_in_group=4
+g0233.abci.local : 256 Rcv from : 251
+g0231.abci.local : 235 Rcv from : 230
+hostname=g0232.abci.local, rank=245, size=270, pid=35167
+g0232.abci.local,rank=245,size=270,group=9,group_id=27,id_in_group=2
+g0232.abci.local : 245 Rcv from : 240
+hostname=g0229.abci.local, rank=224, size=270, pid=14372
+g0229.abci.local,rank=224,size=270,group=9,group_id=24,id_in_group=8
+224 Snd to : 229
+hostname=g0222.abci.local, rank=155, size=270, pid=13160
+g0222.abci.local,rank=155,size=270,group=9,group_id=17,id_in_group=2
+g0222.abci.local : 155 Rcv from : 150
+hostname=g0221.abci.local, rank=146, size=270, pid=12775
+g0221.abci.local,rank=146,size=270,group=9,group_id=16,id_in_group=2
+g0221.abci.local : 146 Rcv from : 141
+hostname=g0211.abci.local, rank=58, size=270, pid=12846
+g0211.abci.local,rank=58,size=270,group=9,group_id=6,id_in_group=4
+g0211.abci.local : 58 Rcv from : 53
+hostname=g0210.abci.local, rank=53, size=270, pid=35801
+g0210.abci.local,rank=53,size=270,group=9,group_id=5,id_in_group=8
+53 Snd to : 58
+g0208.abci.local,rank=35,size=270,group=9,group_id=3,id_in_group=8
+35 Snd to : 40
+g0209.abci.local,rank=37,size=270,group=9,group_id=4,id_in_group=1
+g0209.abci.local : 37 Rcv from : 32
+hostname=g0225.abci.local, rank=184, size=270, pid=34678
+g0225.abci.local,rank=184,size=270,group=9,group_id=20,id_in_group=4
+g0225.abci.local : 184 Rcv from : 179
+hostname=g0207.abci.local, rank=22, size=270, pid=14074
+g0207.abci.local,rank=22,size=270,group=9,group_id=2,id_in_group=4
+g0207.abci.local : 22 Rcv from : 17
+g0217.abci.local,rank=113,size=270,group=9,group_id=12,id_in_group=5
+113 Snd to : 118
+hostname=g0213.abci.local, rank=80, size=270, pid=36479
+hostname=g0215.abci.local, rank=93, size=270, pid=34864
+g0215.abci.local,rank=93,size=270,group=9,group_id=10,id_in_group=3
+g0215.abci.local : 93 Rcv from : 88
+hostname=g0220.abci.local, rank=140, size=270, pid=13496
+hostname=g0219.abci.local, rank=132, size=270, pid=35699
+g0219.abci.local,rank=132,size=270,group=9,group_id=14,id_in_group=6
+132 Snd to : 137
+hostname=g0223.abci.local, rank=167, size=270, pid=35239
+g0223.abci.local,rank=167,size=270,group=9,group_id=18,id_in_group=5
+167 Snd to : 172
+hostname=g0234.abci.local, rank=263, size=270, pid=34493
+g0234.abci.local,rank=263,size=270,group=9,group_id=29,id_in_group=2
+g0234.abci.local : 263 Rcv from : 258
+hostname=g0227.abci.local, rank=202, size=270, pid=35021
+g0227.abci.local,rank=202,size=270,group=9,group_id=22,id_in_group=4
+g0227.abci.local : 202 Rcv from : 197
+hostname=g0214.abci.local, rank=81, size=270, pid=13167
+hostname=g0212.abci.local, rank=63, size=270, pid=35571
+g0212.abci.local,rank=63,size=270,group=9,group_id=7,id_in_group=0
+63 compute : 0
+hostname=g0226.abci.local, rank=192, size=270, pid=14604
+hostname=g0228.abci.local, rank=208, size=270, pid=35162
+g0228.abci.local,rank=208,size=270,group=9,group_id=23,id_in_group=1
+g0228.abci.local : 208 Rcv from : 203
+hostname=g0224.abci.local, rank=171, size=270, pid=13603
+hostname=g0230.abci.local, rank=229, size=270, pid=34781
+g0230.abci.local,rank=229,size=270,group=9,group_id=25,id_in_group=4
+g0230.abci.local : 229 Rcv from : 224
+hostname=g0233.abci.local, rank=257, size=270, pid=35701
+g0233.abci.local,rank=257,size=270,group=9,group_id=28,id_in_group=5
+257 Snd to : 262
+hostname=g0231.abci.local, rank=239, size=270, pid=34345
+g0231.abci.local,rank=239,size=270,group=9,group_id=26,id_in_group=5
+239 Snd to : 244
+hostname=g0232.abci.local, rank=247, size=270, pid=35169
+g0232.abci.local,rank=247,size=270,group=9,group_id=27,id_in_group=4
+g0232.abci.local : 247 Rcv from : 242
+hostname=g0229.abci.local, rank=218, size=270, pid=14119
+g0229.abci.local,rank=218,size=270,group=9,group_id=24,id_in_group=2
+g0229.abci.local : 218 Rcv from : 213
+hostname=g0216.abci.local, rank=100, size=270, pid=13135
+g0216.abci.local,rank=100,size=270,group=9,group_id=11,id_in_group=1
+g0216.abci.local : 100 Rcv from : 95
+hostname=g0222.abci.local, rank=157, size=270, pid=13162
+g0222.abci.local,rank=157,size=270,group=9,group_id=17,id_in_group=4
+g0222.abci.local : 157 Rcv from : 152
+hostname=g0221.abci.local, rank=148, size=270, pid=12777
+g0221.abci.local,rank=148,size=270,group=9,group_id=16,id_in_group=4
+g0221.abci.local : 148 Rcv from : 143
+hostname=g0211.abci.local, rank=59, size=270, pid=12873
+g0211.abci.local,rank=59,size=270,group=9,group_id=6,id_in_group=5
+59 Snd to : 64
+hostname=g0210.abci.local, rank=45, size=270, pid=35520
+g0210.abci.local,rank=45,size=270,group=9,group_id=5,id_in_group=0
+45 compute : 0
+hostname=g0208.abci.local, rank=33, size=270, pid=35142
+g0209.abci.local,rank=41,size=270,group=9,group_id=4,id_in_group=5
+41 Snd to : 46
+hostname=g0225.abci.local, rank=185, size=270, pid=34679
+g0225.abci.local,rank=185,size=270,group=9,group_id=20,id_in_group=5
+185 Snd to : 190
+hostname=g0207.abci.local, rank=23, size=270, pid=14075
+g0207.abci.local,rank=23,size=270,group=9,group_id=2,id_in_group=5
+hostname=g0217.abci.local, rank=116, size=270, pid=14480
+g0217.abci.local,rank=116,size=270,group=9,group_id=12,id_in_group=8
+116 Snd to : 121
+hostname=g0213.abci.local, rank=73, size=270, pid=36198
+g0213.abci.local,rank=73,size=270,group=9,group_id=8,id_in_group=1
+g0213.abci.local : 73 Rcv from : 68
+hostname=g0215.abci.local, rank=98, size=270, pid=35142
+g0215.abci.local,rank=98,size=270,group=9,group_id=10,id_in_group=8
+98 Snd to : 103
+g0220.abci.local,rank=135,size=270,group=9,group_id=15,id_in_group=0
+135 compute : 0
+hostname=g0219.abci.local, rank=133, size=270, pid=35871
+g0219.abci.local,rank=133,size=270,group=9,group_id=14,id_in_group=7
+hostname=g0223.abci.local, rank=168, size=270, pid=35297
+g0223.abci.local,rank=168,size=270,group=9,group_id=18,id_in_group=6
+168 Snd to : 173
+hostname=g0234.abci.local, rank=265, size=270, pid=34495
+g0234.abci.local,rank=265,size=270,group=9,group_id=29,id_in_group=4
+g0234.abci.local : 265 Rcv from : 260
+hostname=g0227.abci.local, rank=203, size=270, pid=35022
+g0227.abci.local,rank=203,size=270,group=9,group_id=22,id_in_group=5
+203 Snd to : 208
+hostname=g0214.abci.local, rank=84, size=270, pid=13170
+g0214.abci.local,rank=84,size=270,group=9,group_id=9,id_in_group=3
+g0214.abci.local : 84 Rcv from : 79
+hostname=g0212.abci.local, rank=64, size=270, pid=35572
+g0212.abci.local,rank=64,size=270,group=9,group_id=7,id_in_group=1
+g0212.abci.local : 64 Rcv from : 59
+hostname=g0226.abci.local, rank=195, size=270, pid=14656
+hostname=g0228.abci.local, rank=209, size=270, pid=35163
+g0228.abci.local,rank=209,size=270,group=9,group_id=23,id_in_group=2
+g0228.abci.local : 209 Rcv from : 204
+g0224.abci.local,rank=173,size=270,group=9,group_id=19,id_in_group=2
+g0224.abci.local : 173 Rcv from : 168
+hostname=g0230.abci.local, rank=230, size=270, pid=34782
+g0230.abci.local,rank=230,size=270,group=9,group_id=25,id_in_group=5
+230 Snd to : 235
+hostname=g0233.abci.local, rank=258, size=270, pid=35745
+g0233.abci.local,rank=258,size=270,group=9,group_id=28,id_in_group=6
+258 Snd to : 263
+hostname=g0231.abci.local, rank=241, size=270, pid=34581
+g0231.abci.local,rank=241,size=270,group=9,group_id=26,id_in_group=7
+241 Snd to : 246
+hostname=g0232.abci.local, rank=249, size=270, pid=35219
+g0232.abci.local,rank=249,size=270,group=9,group_id=27,id_in_group=6
+249 Snd to : 254
+hostname=g0229.abci.local, rank=222, size=270, pid=14200
+g0229.abci.local,rank=222,size=270,group=9,group_id=24,id_in_group=6
+222 Snd to : 227
+hostname=g0216.abci.local, rank=102, size=270, pid=13137
+g0216.abci.local,rank=102,size=270,group=9,group_id=11,id_in_group=3
+g0216.abci.local : 102 Rcv from : 97
+hostname=g0222.abci.local, rank=159, size=270, pid=13234
+g0222.abci.local,rank=159,size=270,group=9,group_id=17,id_in_group=6
+159 Snd to : 164
+hostname=g0221.abci.local, rank=149, size=270, pid=12791
+g0221.abci.local,rank=149,size=270,group=9,group_id=16,id_in_group=5
+149 Snd to : 154
+hostname=g0211.abci.local, rank=60, size=270, pid=12922
+g0211.abci.local,rank=60,size=270,group=9,group_id=6,id_in_group=6
+60 Snd to : 65
+g0208.abci.local,rank=32,size=270,group=9,group_id=3,id_in_group=5
+32 Snd to : 37
+hostname=g0209.abci.local, rank=44, size=270, pid=35248
+g0209.abci.local,rank=44,size=270,group=9,group_id=4,id_in_group=8
+44 Snd to : 49
+hostname=g0225.abci.local, rank=186, size=270, pid=34747
+g0225.abci.local,rank=186,size=270,group=9,group_id=20,id_in_group=6
+186 Snd to : 191
+hostname=g0207.abci.local, rank=19, size=270, pid=14071
+g0207.abci.local,rank=19,size=270,group=9,group_id=2,id_in_group=1
+g0207.abci.local : 19 Rcv from : 14
+g0213.abci.local,rank=74,size=270,group=9,group_id=8,id_in_group=2
+g0213.abci.local : 74 Rcv from : 69
+hostname=g0215.abci.local, rank=90, size=270, pid=34861
+g0215.abci.local,rank=90,size=270,group=9,group_id=10,id_in_group=0
+90 compute : 0
+g0220.abci.local,rank=138,size=270,group=9,group_id=15,id_in_group=3
+g0220.abci.local : 138 Rcv from : 133
+hostname=g0219.abci.local, rank=134, size=270, pid=35911
+g0219.abci.local,rank=134,size=270,group=9,group_id=14,id_in_group=8
+134 Snd to : 139
+hostname=g0223.abci.local, rank=169, size=270, pid=35475
+g0223.abci.local,rank=169,size=270,group=9,group_id=18,id_in_group=7
+169 Snd to : 174
+hostname=g0234.abci.local, rank=267, size=270, pid=34563
+g0234.abci.local,rank=267,size=270,group=9,group_id=29,id_in_group=6
+267 Snd to : 2
+hostname=g0227.abci.local, rank=204, size=270, pid=35075
+g0227.abci.local,rank=204,size=270,group=9,group_id=22,id_in_group=6
+204 Snd to : 209
+hostname=g0214.abci.local, rank=85, size=270, pid=13171
+g0214.abci.local,rank=85,size=270,group=9,group_id=9,id_in_group=4
+g0214.abci.local : 85 Rcv from : 80
+hostname=g0212.abci.local, rank=66, size=270, pid=35574
+g0212.abci.local,rank=66,size=270,group=9,group_id=7,id_in_group=3
+g0212.abci.local : 66 Rcv from : 61
+hostname=g0226.abci.local, rank=197, size=270, pid=14884
+g0224.abci.local,rank=171,size=270,group=9,group_id=19,id_in_group=0
+171 compute : 0
+hostname=g0230.abci.local, rank=231, size=270, pid=34826
+g0230.abci.local,rank=231,size=270,group=9,group_id=25,id_in_group=6
+231 Snd to : 236
+hostname=g0233.abci.local, rank=260, size=270, pid=35938
+g0233.abci.local,rank=260,size=270,group=9,group_id=28,id_in_group=8
+260 Snd to : 265
+hostname=g0232.abci.local, rank=250, size=270, pid=35406
+g0232.abci.local,rank=250,size=270,group=9,group_id=27,id_in_group=7
+250 Snd to : 255
+hostname=g0229.abci.local, rank=217, size=270, pid=14118
+g0229.abci.local,rank=217,size=270,group=9,group_id=24,id_in_group=1
+hostname=g0216.abci.local, rank=104, size=270, pid=13139
+g0216.abci.local,rank=104,size=270,group=9,group_id=11,id_in_group=5
+104 Snd to : 109
+hostname=g0222.abci.local, rank=153, size=270, pid=13158
+g0222.abci.local,rank=153,size=270,group=9,group_id=17,id_in_group=0
+153 compute : 0
+hostname=g0221.abci.local, rank=152, size=270, pid=13032
+g0221.abci.local,rank=152,size=270,group=9,group_id=16,id_in_group=8
+152 Snd to : 157
+hostname=g0211.abci.local, rank=61, size=270, pid=13053
+g0211.abci.local,rank=61,size=270,group=9,group_id=6,id_in_group=7
+61 Snd to : 66
+hostname=g0208.abci.local, rank=30, size=270, pid=35094
+g0208.abci.local,rank=30,size=270,group=9,group_id=3,id_in_group=3
+g0208.abci.local : 30 Rcv from : 25
+hostname=g0209.abci.local, rank=40, size=270, pid=34971
+g0209.abci.local,rank=40,size=270,group=9,group_id=4,id_in_group=4
+g0209.abci.local : 40 Rcv from : 35
+hostname=g0225.abci.local, rank=187, size=270, pid=34878
+g0225.abci.local,rank=187,size=270,group=9,group_id=20,id_in_group=7
+187 Snd to : 192
+hostname=g0207.abci.local, rank=21, size=270, pid=14073
+g0207.abci.local,rank=21,size=270,group=9,group_id=2,id_in_group=3
+g0207.abci.local : 21 Rcv from : 16
+hostname=g0213.abci.local, rank=77, size=270, pid=36202
+hostname=g0215.abci.local, rank=91, size=270, pid=34862
+g0215.abci.local,rank=91,size=270,group=9,group_id=10,id_in_group=1
+g0215.abci.local : 91 Rcv from : 86
+g0220.abci.local,rank=139,size=270,group=9,group_id=15,id_in_group=4
+g0220.abci.local : 139 Rcv from : 134
+g0219.abci.local,rank=126,size=270,group=9,group_id=14,id_in_group=0
+126 compute : 0
+hostname=g0223.abci.local, rank=170, size=270, pid=35502
+g0223.abci.local,rank=170,size=270,group=9,group_id=18,id_in_group=8
+170 Snd to : 175
+hostname=g0234.abci.local, rank=269, size=270, pid=34766
+g0234.abci.local,rank=269,size=270,group=9,group_id=29,id_in_group=8
+269 Snd to : 4
+hostname=g0227.abci.local, rank=205, size=270, pid=35259
+g0227.abci.local,rank=205,size=270,group=9,group_id=22,id_in_group=7
+205 Snd to : 210
+hostname=g0214.abci.local, rank=87, size=270, pid=13216
+hostname=g0212.abci.local, rank=67, size=270, pid=35575
+g0212.abci.local,rank=67,size=270,group=9,group_id=7,id_in_group=4
+g0212.abci.local : 67 Rcv from : 62
+hostname=g0226.abci.local, rank=191, size=270, pid=14603
+hostname=g0224.abci.local, rank=175, size=270, pid=13607
+g0224.abci.local,rank=175,size=270,group=9,group_id=19,id_in_group=4
+hostname=g0230.abci.local, rank=232, size=270, pid=35018
+g0230.abci.local,rank=232,size=270,group=9,group_id=25,id_in_group=7
+232 Snd to : 237
+hostname=g0233.abci.local, rank=253, size=270, pid=35697
+g0233.abci.local,rank=253,size=270,group=9,group_id=28,id_in_group=1
+g0233.abci.local : 253 Rcv from : 248
+hostname=g0232.abci.local, rank=251, size=270, pid=35446
+g0232.abci.local,rank=251,size=270,group=9,group_id=27,id_in_group=8
+251 Snd to : 256
+hostname=g0229.abci.local, rank=223, size=270, pid=14204
+hostname=g0216.abci.local, rank=106, size=270, pid=13375
+g0216.abci.local,rank=106,size=270,group=9,group_id=11,id_in_group=7
+106 Snd to : 111
+hostname=g0222.abci.local, rank=154, size=270, pid=13159
+g0222.abci.local,rank=154,size=270,group=9,group_id=17,id_in_group=1
+g0222.abci.local : 154 Rcv from : 149
+hostname=g0221.abci.local, rank=145, size=270, pid=12774
+hostname=g0211.abci.local, rank=62, size=270, pid=13133
+g0211.abci.local,rank=62,size=270,group=9,group_id=6,id_in_group=8
+62 Snd to : 67
+g0208.abci.local,rank=33,size=270,group=9,group_id=3,id_in_group=6
+33 Snd to : 38
+hostname=g0209.abci.local, rank=42, size=270, pid=35016
+g0209.abci.local,rank=42,size=270,group=9,group_id=4,id_in_group=6
+42 Snd to : 47
+hostname=g0225.abci.local, rank=188, size=270, pid=34955
+g0225.abci.local,rank=188,size=270,group=9,group_id=20,id_in_group=8
+188 Snd to : 193
+hostname=g0207.abci.local, rank=25, size=270, pid=14233
+g0207.abci.local,rank=25,size=270,group=9,group_id=2,id_in_group=7
+25 Snd to : 30
+hostname=g0213.abci.local, rank=79, size=270, pid=36439
+g0215.abci.local : 92 Rcv from : 87
+hostname=g0220.abci.local, rank=141, size=270, pid=13561
+g0219.abci.local,rank=131,size=270,group=9,group_id=14,id_in_group=5
+131 Snd to : 136
+hostname=g0234.abci.local, rank=262, size=270, pid=34492
+g0234.abci.local,rank=262,size=270,group=9,group_id=29,id_in_group=1
+g0234.abci.local : 262 Rcv from : 257
+hostname=g0227.abci.local, rank=206, size=270, pid=35299
+g0227.abci.local,rank=206,size=270,group=9,group_id=22,id_in_group=8
+206 Snd to : 211
+hostname=g0214.abci.local, rank=82, size=270, pid=13168
+g0214.abci.local,rank=82,size=270,group=9,group_id=9,id_in_group=1
+g0214.abci.local : 82 Rcv from : 77
+hostname=g0226.abci.local, rank=196, size=270, pid=14844
+hostname=g0224.abci.local, rank=172, size=270, pid=13604
+hostname=g0230.abci.local, rank=233, size=270, pid=35058
+g0230.abci.local,rank=233,size=270,group=9,group_id=25,id_in_group=8
+233 Snd to : 238
+hostname=g0233.abci.local, rank=255, size=270, pid=35699
+g0233.abci.local,rank=255,size=270,group=9,group_id=28,id_in_group=3
+g0233.abci.local : 255 Rcv from : 250
+hostname=g0232.abci.local, rank=243, size=270, pid=35165
+g0232.abci.local,rank=243,size=270,group=9,group_id=27,id_in_group=0
+243 compute : 0
+g0229.abci.local : 217 Rcv from : 212
+hostname=g0216.abci.local, rank=99, size=270, pid=13134
+g0216.abci.local,rank=99,size=270,group=9,group_id=11,id_in_group=0
+99 compute : 0
+hostname=g0222.abci.local, rank=156, size=270, pid=13161
+g0222.abci.local,rank=156,size=270,group=9,group_id=17,id_in_group=3
+g0222.abci.local : 156 Rcv from : 151
+hostname=g0221.abci.local, rank=151, size=270, pid=12884
+g0221.abci.local,rank=151,size=270,group=9,group_id=16,id_in_group=7
+hostname=g0211.abci.local, rank=55, size=270, pid=12843
+g0211.abci.local,rank=55,size=270,group=9,group_id=6,id_in_group=1
+g0211.abci.local : 55 Rcv from : 50
+hostname=g0208.abci.local, rank=28, size=270, pid=35092
+g0208.abci.local,rank=28,size=270,group=9,group_id=3,id_in_group=1
+g0208.abci.local : 28 Rcv from : 23
+23 Snd to : 28
+g0213.abci.local,rank=79,size=270,group=9,group_id=8,id_in_group=7
+79 Snd to : 84
+hostname=g0215.abci.local, rank=94, size=270, pid=34865
+g0215.abci.local,rank=94,size=270,group=9,group_id=10,id_in_group=4
+g0215.abci.local : 94 Rcv from : 89
+hostname=g0220.abci.local, rank=137, size=270, pid=13492
+g0220.abci.local,rank=137,size=270,group=9,group_id=15,id_in_group=2
+133 Snd to : 138
+hostname=g0234.abci.local, rank=264, size=270, pid=34494
+g0234.abci.local,rank=264,size=270,group=9,group_id=29,id_in_group=3
+g0234.abci.local : 264 Rcv from : 259
+hostname=g0227.abci.local, rank=198, size=270, pid=35017
+g0227.abci.local,rank=198,size=270,group=9,group_id=22,id_in_group=0
+198 compute : 0
+hostname=g0214.abci.local, rank=83, size=270, pid=13169
+g0214.abci.local,rank=83,size=270,group=9,group_id=9,id_in_group=2
+g0214.abci.local : 83 Rcv from : 78
+g0226.abci.local,rank=191,size=270,group=9,group_id=21,id_in_group=2
+g0226.abci.local : 191 Rcv from : 186
+hostname=g0224.abci.local, rank=178, size=270, pid=13847
+hostname=g0230.abci.local, rank=225, size=270, pid=34777
+g0230.abci.local,rank=225,size=270,group=9,group_id=25,id_in_group=0
+225 compute : 0
+hostname=g0233.abci.local, rank=259, size=270, pid=35937
+g0233.abci.local,rank=259,size=270,group=9,group_id=28,id_in_group=7
+259 Snd to : 264
+hostname=g0232.abci.local, rank=246, size=270, pid=35168
+g0232.abci.local,rank=246,size=270,group=9,group_id=27,id_in_group=3
+g0232.abci.local : 246 Rcv from : 241
+g0229.abci.local,rank=223,size=270,group=9,group_id=24,id_in_group=7
+223 Snd to : 228
+hostname=g0216.abci.local, rank=101, size=270, pid=13136
+g0216.abci.local,rank=101,size=270,group=9,group_id=11,id_in_group=2
+g0216.abci.local : 101 Rcv from : 96
+hostname=g0222.abci.local, rank=158, size=270, pid=13163
+g0222.abci.local,rank=158,size=270,group=9,group_id=17,id_in_group=5
+158 Snd to : 163
+hostname=g0221.abci.local, rank=147, size=270, pid=12776
+g0221.abci.local,rank=147,size=270,group=9,group_id=16,id_in_group=3
+g0221.abci.local : 147 Rcv from : 142
+hostname=g0211.abci.local, rank=56, size=270, pid=12844
+g0211.abci.local,rank=56,size=270,group=9,group_id=6,id_in_group=2
+g0211.abci.local : 56 Rcv from : 51
+hostname=g0208.abci.local, rank=31, size=270, pid=35095
+g0208.abci.local,rank=31,size=270,group=9,group_id=3,id_in_group=4
+g0208.abci.local : 31 Rcv from : 26
+g0213.abci.local,rank=72,size=270,group=9,group_id=8,id_in_group=0
+72 compute : 0
+hostname=g0215.abci.local, rank=96, size=270, pid=34913
+g0215.abci.local,rank=96,size=270,group=9,group_id=10,id_in_group=6
+96 Snd to : 101
+g0220.abci.local,rank=140,size=270,group=9,group_id=15,id_in_group=5
+140 Snd to : 145
+hostname=g0234.abci.local, rank=266, size=270, pid=34496
+g0234.abci.local,rank=266,size=270,group=9,group_id=29,id_in_group=5
+266 Snd to : 1
+hostname=g0227.abci.local, rank=200, size=270, pid=35019
+g0227.abci.local,rank=200,size=270,group=9,group_id=22,id_in_group=2
+g0227.abci.local : 200 Rcv from : 195
+g0214.abci.local,rank=81,size=270,group=9,group_id=9,id_in_group=0
+81 compute : 0
+hostname=g0226.abci.local, rank=190, size=270, pid=14602
+g0226.abci.local,rank=190,size=270,group=9,group_id=21,id_in_group=1
+g0224.abci.local : 175 Rcv from : 170
+hostname=g0232.abci.local, rank=248, size=270, pid=35170
+g0232.abci.local,rank=248,size=270,group=9,group_id=27,id_in_group=5
+248 Snd to : 253
+hostname=g0229.abci.local, rank=221, size=270, pid=14132
+hostname=g0216.abci.local, rank=103, size=270, pid=13138
+g0216.abci.local,rank=103,size=270,group=9,group_id=11,id_in_group=4
+g0216.abci.local : 103 Rcv from : 98
+hostname=g0222.abci.local, rank=160, size=270, pid=13289
+g0222.abci.local,rank=160,size=270,group=9,group_id=17,id_in_group=7
+160 Snd to : 165
+g0221.abci.local,rank=145,size=270,group=9,group_id=16,id_in_group=1
+g0221.abci.local : 145 Rcv from : 140
+hostname=g0211.abci.local, rank=57, size=270, pid=12845
+g0211.abci.local,rank=57,size=270,group=9,group_id=6,id_in_group=3
+g0211.abci.local : 57 Rcv from : 52
+hostname=g0208.abci.local, rank=34, size=270, pid=35332
+g0208.abci.local,rank=34,size=270,group=9,group_id=3,id_in_group=7
+34 Snd to : 39
+g0213.abci.local,rank=77,size=270,group=9,group_id=8,id_in_group=5
+77 Snd to : 82
+g0220.abci.local : 137 Rcv from : 132
+hostname=g0234.abci.local, rank=268, size=270, pid=34732
+g0234.abci.local,rank=268,size=270,group=9,group_id=29,id_in_group=7
+268 Snd to : 3
+hostname=g0214.abci.local, rank=86, size=270, pid=13172
+g0214.abci.local,rank=86,size=270,group=9,group_id=9,id_in_group=5
+86 Snd to : 91
+g0226.abci.local,rank=196,size=270,group=9,group_id=21,id_in_group=7
+196 Snd to : 201
+hostname=g0224.abci.local, rank=174, size=270, pid=13606
+g0224.abci.local,rank=174,size=270,group=9,group_id=19,id_in_group=3
+g0224.abci.local : 174 Rcv from : 169
+g0229.abci.local,rank=221,size=270,group=9,group_id=24,id_in_group=5
+221 Snd to : 226
+hostname=g0216.abci.local, rank=107, size=270, pid=13376
+g0216.abci.local,rank=107,size=270,group=9,group_id=11,id_in_group=8
+107 Snd to : 112
+151 Snd to : 156
+g0213.abci.local,rank=78,size=270,group=9,group_id=8,id_in_group=6
+78 Snd to : 83
+hostname=g0220.abci.local, rank=143, size=270, pid=13796
+hostname=g0214.abci.local, rank=88, size=270, pid=13277
+g0214.abci.local,rank=88,size=270,group=9,group_id=9,id_in_group=7
+88 Snd to : 93
+g0226.abci.local : 190 Rcv from : 185
+g0224.abci.local,rank=172,size=270,group=9,group_id=19,id_in_group=1
+g0224.abci.local : 172 Rcv from : 167
+hostname=g0229.abci.local, rank=219, size=270, pid=14120
+g0229.abci.local,rank=219,size=270,group=9,group_id=24,id_in_group=3
+hostname=g0216.abci.local, rank=105, size=270, pid=13191
+g0216.abci.local,rank=105,size=270,group=9,group_id=11,id_in_group=6
+105 Snd to : 110
+g0213.abci.local,rank=80,size=270,group=9,group_id=8,id_in_group=8
+80 Snd to : 85
+g0220.abci.local,rank=141,size=270,group=9,group_id=15,id_in_group=6
+141 Snd to : 146
+hostname=g0214.abci.local, rank=89, size=270, pid=13424
+g0214.abci.local,rank=89,size=270,group=9,group_id=9,id_in_group=8
+89 Snd to : 94
+g0226.abci.local,rank=189,size=270,group=9,group_id=21,id_in_group=0
+189 compute : 0
+g0224.abci.local,rank=179,size=270,group=9,group_id=19,id_in_group=8
+179 Snd to : 184
+g0229.abci.local : 219 Rcv from : 214
+g0213.abci.local,rank=75,size=270,group=9,group_id=8,id_in_group=3
+g0213.abci.local : 75 Rcv from : 70
+hostname=g0220.abci.local, rank=142, size=270, pid=13756
+g0220.abci.local,rank=142,size=270,group=9,group_id=15,id_in_group=7
+142 Snd to : 147
+g0214.abci.local,rank=87,size=270,group=9,group_id=9,id_in_group=6
+87 Snd to : 92
+hostname=g0226.abci.local, rank=193, size=270, pid=14605
+g0226.abci.local,rank=193,size=270,group=9,group_id=21,id_in_group=4
+g0226.abci.local : 193 Rcv from : 188
+g0224.abci.local,rank=177,size=270,group=9,group_id=19,id_in_group=6
+177 Snd to : 182
+g0213.abci.local,rank=76,size=270,group=9,group_id=8,id_in_group=4
+g0213.abci.local : 76 Rcv from : 71
+g0220.abci.local,rank=143,size=270,group=9,group_id=15,id_in_group=8
+143 Snd to : 148
+hostname=g0226.abci.local, rank=194, size=270, pid=14606
+g0226.abci.local,rank=194,size=270,group=9,group_id=21,id_in_group=5
+194 Snd to : 199
+g0224.abci.local,rank=178,size=270,group=9,group_id=19,id_in_group=7
+178 Snd to : 183
+hostname=g0220.abci.local, rank=136, size=270, pid=13491
+g0220.abci.local,rank=136,size=270,group=9,group_id=15,id_in_group=1
+g0220.abci.local : 136 Rcv from : 131
+g0226.abci.local,rank=192,size=270,group=9,group_id=21,id_in_group=3
+g0226.abci.local : 192 Rcv from : 187
+hostname=g0224.abci.local, rank=176, size=270, pid=13629
+g0224.abci.local,rank=176,size=270,group=9,group_id=19,id_in_group=5
+176 Snd to : 181
+g0226.abci.local,rank=195,size=270,group=9,group_id=21,id_in_group=6
+g0226.abci.local,rank=197,size=270,group=9,group_id=21,id_in_group=8
+197 Snd to : 202
+195 Snd to : 200
+hostname=g0205.abci.local, rank=4, size=270, pid=32852
+g0205.abci.local,rank=4,size=270,group=9,group_id=0,id_in_group=4
+g0205.abci.local : 4 Rcv from : 269
+hostname=g0205.abci.local, rank=6, size=270, pid=32916
+g0205.abci.local,rank=6,size=270,group=9,group_id=0,id_in_group=6
+6 Snd to : 11
+hostname=g0205.abci.local, rank=7, size=270, pid=33089
+g0205.abci.local,rank=7,size=270,group=9,group_id=0,id_in_group=7
+7 Snd to : 12
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=0
+g0205.abci.local:Rcv1 got SHMREADY from: 0
+init list_free size = 64
+size=270, group=9, start=0, end=40, step=40
+start=0,end=40
+g0205.abci.local:Rcv2 got SHMREADY from: 0
+g0205.abci.local:Rcv3 got SHMREADY from: 0
+g0205.abci.local:Rcv4 got SHMREADY from: 0
+g0205.abci.local:Rcv5 got SHMREADY from: 0
+g0205.abci.local:Rcv6 got SHMREADY from: 0
+g0205.abci.local:Rcv7 got SHMREADY from: 0
+g0205.abci.local:Rcv8 got SHMREADY from: 0
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+init list_free size = 64
+size=270, group=9, start=800, end=840, step=40
+start=800,end=840
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=180
+call_function : OnProc ......
+g0225.abci.local:Rcv181 got SHMREADY from: 180
+g0225.abci.local:Rcv182 got SHMREADY from: 180
+g0225.abci.local:Rcv183 got SHMREADY from: 180
+g0225.abci.local:Rcv184 got SHMREADY from: 180
+g0225.abci.local:Rcv185 got SHMREADY from: 180
+g0225.abci.local:Rcv188 got SHMREADY from: 180
+g0225.abci.local:Rcv186 got SHMREADY from: 180
+g0225.abci.local:Rcv187 got SHMREADY from: 180
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0000.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0800.raw, successed
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=207
+call_function : OnProc ......
+g0228.abci.local:Rcv208 got SHMREADY from: 207
+init list_free size = 64
+size=270, group=9, start=920, end=960, step=40
+start=920,end=960
+g0228.abci.local:Rcv209 got SHMREADY from: 207
+g0228.abci.local:Rcv210 got SHMREADY from: 207
+g0228.abci.local:Rcv211 got SHMREADY from: 207
+g0228.abci.local:Rcv212 got SHMREADY from: 207
+g0228.abci.local:Rcv214 got SHMREADY from: 207
+g0228.abci.local:Rcv213 got SHMREADY from: 207
+g0228.abci.local:Rcv215 got SHMREADY from: 207
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+g0227.abci.local:Rcv200 got SHMREADY from: 198
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0920.raw, successed
+g0227.abci.local:Rcv199 got SHMREADY from: 198
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProccall_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=198
+ ......
+init list_free size = 63
+size=270, group=9, start=880, end=920, step=40
+start=880,end=920
+g0227.abci.local:Rcv201 got SHMREADY from: 198
+g0227.abci.local:Rcv202 got SHMREADY from: 198
+g0227.abci.local:Rcv203 got SHMREADY from: 198
+g0227.abci.local:Rcv204 got SHMREADY from: 198
+g0227.abci.local:Rcv205 got SHMREADY from: 198
+g0227.abci.local:Rcv206 got SHMREADY from: 198
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=45
+init list_free size = 64
+size=270, group=9, start=200, end=240, step=40
+start=200,end=240
+g0210.abci.local:Rcv46 got SHMREADY from: 45
+g0210.abci.local:Rcv47 got SHMREADY from: 45
+g0210.abci.local:Rcv48 got SHMREADY from: 45
+g0210.abci.local:Rcv49 got SHMREADY from: 45
+g0210.abci.local:Rcv50 got SHMREADY from: 45
+g0210.abci.local:Rcv51 got SHMREADY from: 45
+g0210.abci.local:Rcv52 got SHMREADY from: 45
+g0210.abci.local:Rcv53 got SHMREADY from: 45
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0880.raw, successed
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=153
+call_function : OnProc ......
+init list_free size = 64
+size=270, group=9, start=680, end=720, step=40
+start=680,end=720
+g0222.abci.local:Rcv154 got SHMREADY from: 153
+g0222.abci.local:Rcv155 got SHMREADY from: 153
+g0222.abci.local:Rcv156 got SHMREADY from: 153
+g0222.abci.local:Rcv157 got SHMREADY from: 153
+g0222.abci.local:Rcv158 got SHMREADY from: 153
+g0222.abci.local:Rcv159 got SHMREADY from: 153
+g0222.abci.local:Rcv160 got SHMREADY from: 153
+g0222.abci.local:Rcv161 got SHMREADY from: 153
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0200.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : OnProcBegin MpiCompute::OnRcv(), rank=117
+ ......
+g0218.abci.local:Rcv118 got SHMREADY from: 117
+init list_free size = 64
+size=270, group=9, start=520, end=560, step=40
+start=520,end=560
+g0218.abci.local:Rcv119 got SHMREADY from: 117
+g0218.abci.local:Rcv120 got SHMREADY from: 117
+g0218.abci.local:Rcv121 got SHMREADY from: 117
+g0218.abci.local:Rcv122 got SHMREADY from: 117
+g0218.abci.local:Rcv124 got SHMREADY from: 117
+g0218.abci.local:Rcv123 got SHMREADY from: 117
+g0218.abci.local:Rcv125 got SHMREADY from: 117
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0680.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : OnProcBegin MpiCompute::OnRcv(), rank=36
+ ......
+g0209.abci.local:Rcv37 got SHMREADY from: 36
+init list_free size = 64
+size=270, group=9, start=160, end=200, step=40
+g0209.abci.local:Rcv38 got SHMREADY from: 36
+g0209.abci.local:Rcv39 got SHMREADY from: 36
+start=160,end=200
+g0209.abci.local:Rcv40 got SHMREADY from: 36
+g0209.abci.local:Rcv41 got SHMREADY from: 36
+g0209.abci.local:Rcv42 got SHMREADY from: 36
+g0209.abci.local:Rcv43 got SHMREADY from: 36
+g0209.abci.local:Rcv44 got SHMREADY from: 36
+Begin WorkerThread
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=225
+call_function : OnProc ......
+call_function : OnProc ......
+Begin Worker...
+g0230.abci.local:Rcv226 got SHMREADY from: 225
+g0230.abci.local:Rcv227 got SHMREADY from: 225
+g0230.abci.local:Rcv228 got SHMREADY from: 225
+g0230.abci.local:Rcv229 got SHMREADY from: 225
+g0230.abci.local:Rcv230 got SHMREADY from: 225
+init list_free size = 64
+size=270, group=9, start=1000, end=1040, step=40
+start=1000,end=1040
+g0230.abci.local:Rcv231 got SHMREADY from: 225
+g0230.abci.local:Rcv232 got SHMREADY from: 225
+g0230.abci.local:Rcv233 got SHMREADY from: 225
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+init list_free size = call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=27
+64
+g0208.abci.local:Rcv30 got SHMREADY from: 27
+g0208.abci.local:Rcv28 got SHMREADY from: 27
+g0208.abci.local:Rcv29 got SHMREADY from: 27
+size=270, group=9, start=120, end=160, step=40
+start=120,end=160
+g0208.abci.local:Rcv32 got SHMREADY from: 27
+g0208.abci.local:Rcv31 got SHMREADY from: 27
+g0208.abci.local:Rcv33 got SHMREADY from: 27
+g0208.abci.local:Rcv34 got SHMREADY from: 27
+g0208.abci.local:Rcv35 got SHMREADY from: 27
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=126
+call_function : OnProc ......
+init list_free size = 64
+size=270, group=9, start=560, end=600, step=40
+start=560,end=600
+g0219.abci.local:Rcv129 got SHMREADY from: 126
+g0219.abci.local:Rcv127 got SHMREADY from: 126
+g0219.abci.local:Rcv128 got SHMREADY from: 126
+g0219.abci.local:Rcv130 got SHMREADY from: 126
+g0219.abci.local:Rcv131 got SHMREADY from: 126
+g0219.abci.local:Rcv133 got SHMREADY from: 126
+g0219.abci.local:Rcv132 got SHMREADY from: 126
+g0219.abci.local:Rcv134 got SHMREADY from: 126
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0520.raw, successed
+call_function : OnProc ......
+Begin WorkerThreadcall_function : OnProc ......
+
+call_function : OnProc ......
+Begin Worker...
+Begin MpiCompute::OnRcv(), rank=81
+g0214.abci.local:Rcv82 got SHMREADY from: 81
+init list_free size = 64
+g0214.abci.local:Rcv83 got SHMREADY from: 81
+g0214.abci.local:Rcv84 got SHMREADY from: 81
+g0214.abci.local:Rcv85 got SHMREADY from: 81
+size=270, group=9, start=360, end=400, step=40
+start=360,end=400
+g0214.abci.local:Rcv87 got SHMREADY from: 81
+g0214.abci.local:Rcv86 got SHMREADY from: 81
+g0214.abci.local:Rcv89 got SHMREADY from: 81
+g0214.abci.local:Rcv88 got SHMREADY from: 81
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=54
+Begin WorkerThreadcall_function : 
+call_function : OnProc ......
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin Worker...
+g0211.abci.local:Rcv55 got SHMREADY from: 54
+init list_free size = 64
+OnProc ......
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=18
+g0211.abci.local:Rcv56 got SHMREADY from: 54
+size=270, group=9, start=80, end=120, step=40
+start=80,end=120
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=216
+call_function : OnProc ......
+g0211.abci.local:Rcv57 got SHMREADY from: 54
+g0207.abci.local:Rcv19 got SHMREADY from: 18
+g0211.abci.local:Rcv58 got SHMREADY from: 54
+g0207.abci.local:Rcv20 got SHMREADY from: 18
+init list_free size = 63
+size=270, group=9, start=240, end=280, step=40
+start=240,end=280
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=9
+g0207.abci.local:Rcv21 got SHMREADY from: 18
+g0211.abci.local:Rcv59 got SHMREADY from: 54
+g0207.abci.local:Rcv22 got SHMREADY from: 18
+init list_free size = 64
+size=270, group=9, start=960, end=1000, step=40
+start=960,end=1000
+g0211.abci.local:Rcv60 got SHMREADY from: 54
+init list_free size = call_function : OnProc ......
+63
+g0207.abci.local:Rcv23 got SHMREADY from: 18
+g0229.abci.local:Rcv217 got SHMREADY from: 216
+g0211.abci.local:Rcv61 got SHMREADY from: 54
+size=270, group=9, start=40, end=80, step=40
+start=40,end=80
+g0207.abci.local:Rcv24 got SHMREADY from: 18
+g0211.abci.local:Rcv62 got SHMREADY from: 54
+g0206.abci.local:Rcv10 got SHMREADY from: 9
+g0207.abci.local:Rcv25 got SHMREADY from: 18
+g0206.abci.local:Rcv11 got SHMREADY from: 9
+g0207.abci.local:Rcv26 got SHMREADY from: 18
+g0229.abci.local:Rcv219 got SHMREADY from: 216
+g0206.abci.local:Rcv12 got SHMREADY from: 9
+g0229.abci.local:Rcv218 got SHMREADY from: 216
+g0206.abci.local:Rcv13 got SHMREADY from: 9
+g0229.abci.local:Rcv222 got SHMREADY from: 216
+g0206.abci.local:Rcv14 got SHMREADY from: 9
+g0229.abci.local:Rcv221 got SHMREADY from: 216
+g0229.abci.local:Rcv220 got SHMREADY from: 216
+g0229.abci.local:Rcv223 got SHMREADY from: 216
+g0206.abci.local:Rcv17 got SHMREADY from: 9
+g0229.abci.local:Rcv224 got SHMREADY from: 216
+g0206.abci.local:Rcv15 got SHMREADY from: 9
+g0206.abci.local:Rcv16 got SHMREADY from: 9
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+init list_free size = 64
+size=270, group=9, start=1040, end=1080, step=40
+start=1040,end=1080
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=234
+call_function : OnProc ......
+g0231.abci.local:Rcv235 got SHMREADY from: 234
+g0231.abci.local:Rcv237 got SHMREADY from: 234
+g0231.abci.local:Rcv236 got SHMREADY from: 234
+call_function : OnProc ......
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=162
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+g0231.abci.local:Rcv239 got SHMREADY from: 234
+g0231.abci.local:Rcv238 got SHMREADY from: 234
+g0231.abci.local:Rcv240 got SHMREADY from: 234
+g0231.abci.local:Rcv241 got SHMREADY from: 234
+g0231.abci.local:Rcv242 got SHMREADY from: 234
+g0223.abci.local:Rcv163 got SHMREADY from: 162
+init list_free size = 64
+size=270, group=9, start=720, end=760, step=40
+start=720,end=760
+g0223.abci.local:Rcv164 got SHMREADY from: 162
+g0223.abci.local:Rcv165 got SHMREADY from: 162
+g0223.abci.local:Rcv166 got SHMREADY from: 162
+g0223.abci.local:Rcv167 got SHMREADY from: 162
+g0223.abci.local:Rcv168 got SHMREADY from: 162
+g0223.abci.local:Rcv169 got SHMREADY from: 162
+g0223.abci.local:Rcv170 got SHMREADY from: 162
+call_function : OnProc ......
+Begin WorkerThreadBegin MpiCompute::OnRcv(), rank=261
+
+call_function : OnProc ......
+Begin Worker...
+g0234.abci.local:Rcv262 got SHMREADY from: 261
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=63
+call_function : OnProc ......
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : Begin MpiCompute::OnRcv(), rank=189
+g0234.abci.local:Rcv263 got SHMREADY from: 261
+g0212.abci.local:Rcv64 got SHMREADY from: 63
+g0226.abci.local:Rcv191 got SHMREADY from: 189
+call_function : OnProc ......
+g0226.abci.local:Rcv190 got SHMREADY from: 189
+g0234.abci.local:Rcv264 got SHMREADY from: 261
+init list_free size = 64
+size=270, group=9, start=280, end=320, step=40
+start=280,end=320
+g0226.abci.local:Rcv193 got SHMREADY from: 189
+init list_free size = 64
+size=270, group=9, start=1160, end=1200, step=40
+start=1160,end=1200
+g0212.abci.local:Rcv65 got SHMREADY from: 63
+g0226.abci.local:Rcv192 got SHMREADY from: 189
+g0234.abci.local:Rcv265 got SHMREADY from: 261
+g0212.abci.local:Rcv66 got SHMREADY from: 63
+OnProc ......
+g0234.abci.local:Rcv266 got SHMREADY from: 261
+g0212.abci.local:Rcv67 got SHMREADY from: 63
+g0226.abci.local:Rcv194 got SHMREADY from: 189
+g0234.abci.local:Rcv267 got SHMREADY from: 261
+g0212.abci.local:Rcv68 got SHMREADY from: 63
+init list_free size = 64
+call_function : OnProc ......
+call_function : OnProc ......
+g0234.abci.local:Rcv268 got SHMREADY from: 261
+g0212.abci.local:Rcv69 got SHMREADY from: 63
+g0226.abci.local:Rcv195 got SHMREADY from: 189
+g0220.abci.local:Rcv136 got SHMREADY from: 135
+g0234.abci.local:Rcv269 got SHMREADY from: 261
+g0212.abci.local:Rcv70 got SHMREADY from: 63
+size=270, group=9, start=840, end=880, step=40
+start=840,end=880
+create segment success, size = 402654144bytes, 0.375001 GB
+Begin MpiCompute::OnRcv(), rank=135
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+g0212.abci.local:Rcv71 got SHMREADY from: 63
+g0226.abci.local:Rcv197 got SHMREADY from: 189
+g0220.abci.local:Rcv140 got SHMREADY from: 135
+g0226.abci.local:Rcv196 got SHMREADY from: 189
+g0220.abci.local:Rcv138 got SHMREADY from: 135
+g0220.abci.local:Rcv139 got SHMREADY from: 135
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0160.raw, successed
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=90
+call_function : OnProc ......
+g0220.abci.local:Rcv141 got SHMREADY from: 135
+g0220.abci.local:Rcv137 got SHMREADY from: 135
+g0220.abci.local:Rcv143 got SHMREADY from: 135
+g0220.abci.local:Rcv142 got SHMREADY from: 135
+init list_free size = 64
+size=270, group=9, start=600, end=640, step=40
+start=600,end=640
+init list_free size = 63
+size=270, group=9, start=400, end=440, step=40
+start=400,end=440
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+g0215.abci.local:Rcv91 got SHMREADY from: 90
+call_function : OnProc ......
+init list_free size = Begin MpiCompute::OnRcv(), rank=99
+Begin WorkerThread
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=108
+call_function : OnProc ......
+call_function : OnProc ......
+Begin Worker...
+g0215.abci.local:Rcv92 got SHMREADY from: 90
+64
+g0217.abci.local:Rcv109 got SHMREADY from: 108
+g0215.abci.local:Rcv94 got SHMREADY from: 90
+g0216.abci.local:Rcv100 got SHMREADY from: 99
+g0215.abci.local:Rcv93 got SHMREADY from: 90
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=243
+size=270, group=9, start=440, end=480, step=40
+start=440,end=480
+g0215.abci.local:Rcv96 got SHMREADY from: 90
+g0216.abci.local:Rcv101 got SHMREADY from: 99
+g0215.abci.local:Rcv95 got SHMREADY from: 90
+g0216.abci.local:Rcv102 got SHMREADY from: 99
+g0215.abci.local:Rcv97 got SHMREADY from: 90
+call_function : OnProc ......
+g0216.abci.local:Rcv103 got SHMREADY from: 99
+g0215.abci.local:Rcv98 got SHMREADY from: 90
+init list_free size = 63
+size=270, group=9, start=1080, end=1120, step=40
+start=1080,end=1120
+g0216.abci.local:Rcv104 got SHMREADY from: 99
+g0232.abci.local:Rcv244 got SHMREADY from: 243
+g0216.abci.local:Rcv105 got SHMREADY from: 99
+g0232.abci.local:Rcv245 got SHMREADY from: 243
+g0216.abci.local:Rcv106 got SHMREADY from: 99
+g0232.abci.local:Rcv246 got SHMREADY from: 243
+g0216.abci.local:Rcv107 got SHMREADY from: 99
+g0217.abci.local:Rcv110 got SHMREADY from: 108
+g0232.abci.local:Rcv247 got SHMREADY from: 243
+g0217.abci.local:Rcv111 got SHMREADY from: 108
+g0232.abci.local:Rcv248 got SHMREADY from: 243
+g0232.abci.local:Rcv249 got SHMREADY from: 243
+g0232.abci.local:Rcv250 got SHMREADY from: 243
+g0232.abci.local:Rcv251 got SHMREADY from: 243
+Begin WorkerThread
+call_function : call_function : OnProcOnProc ...... ......
+
+Begin Worker...
+init list_free size = 64
+size=270, group=9, start=480, end=520, step=40
+start=480,end=520
+g0217.abci.local:Rcv112 got SHMREADY from: 108
+g0217.abci.local:Rcv113 got SHMREADY from: 108
+g0217.abci.local:Rcv114 got SHMREADY from: 108
+g0217.abci.local:Rcv115 got SHMREADY from: 108
+g0217.abci.local:Rcv116 got SHMREADY from: 108
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=171
+g0224.abci.local:Rcv172 got SHMREADY from: 171
+init list_free size = 64
+size=270, group=9, start=760, end=800, step=40
+g0224.abci.local:Rcv174 got SHMREADY from: 171
+g0224.abci.local:Rcv173 got SHMREADY from: 171
+start=760,end=800
+g0224.abci.local:Rcv175 got SHMREADY from: 171
+g0224.abci.local:Rcv176 got SHMREADY from: 171
+g0224.abci.local:Rcv177 got SHMREADY from: 171
+g0224.abci.local:Rcv178 got SHMREADY from: 171
+g0224.abci.local:Rcv179 got SHMREADY from: 171
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1000.raw, successed
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=144
+call_function : OnProc ......
+init list_free size = 64
+size=270, group=9, start=640, end=680, step=40
+start=640,end=680
+g0221.abci.local:Rcv145 got SHMREADY from: 144
+g0221.abci.local:Rcv146 got SHMREADY from: 144
+g0221.abci.local:Rcv147 got SHMREADY from: 144
+g0221.abci.local:Rcv148 got SHMREADY from: 144
+g0221.abci.local:Rcv149 got SHMREADY from: 144
+g0221.abci.local:Rcv150 got SHMREADY from: 144
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : OnProc ......
+Begin MpiCompute::OnRcv(), rank=72
+g0221.abci.local:Rcv152 got SHMREADY from: 144
+init list_free size = 64
+size=270, group=9, start=320, end=360, step=40
+start=320,end=360
+g0221.abci.local:Rcv151 got SHMREADY from: 144
+g0213.abci.local:Rcv73 got SHMREADY from: 72
+g0213.abci.local:Rcv74 got SHMREADY from: 72
+g0213.abci.local:Rcv75 got SHMREADY from: 72
+g0213.abci.local:Rcv76 got SHMREADY from: 72
+g0213.abci.local:Rcv77 got SHMREADY from: 72
+g0213.abci.local:Rcv78 got SHMREADY from: 72
+g0213.abci.local:Rcv79 got SHMREADY from: 72
+g0213.abci.local:Rcv80 got SHMREADY from: 72
+Begin WorkerThread
+call_function : OnProc ......
+Begin Worker...
+call_function : OnProc ......
+call_function : Begin MpiCompute::OnRcv(), rank=252
+OnProc ......
+init list_free size = 64
+size=270, group=9, start=1120, end=1160, step=40
+g0233.abci.local:Rcv253 got SHMREADY from: 252
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0120.raw, successed
+start=1120,end=1160
+g0233.abci.local:Rcv254 got SHMREADY from: 252
+g0233.abci.local:Rcv255 got SHMREADY from: 252
+g0233.abci.local:Rcv256 got SHMREADY from: 252
+g0233.abci.local:Rcv257 got SHMREADY from: 252
+g0233.abci.local:Rcv258 got SHMREADY from: 252
+g0233.abci.local:Rcv259 got SHMREADY from: 252
+g0233.abci.local:Rcv260 got SHMREADY from: 252
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0560.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0360.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0080.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0960.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0240.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1040.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0040.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0400.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1160.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0600.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0720.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0440.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0840.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0280.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1080.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0760.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0640.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0320.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0480.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1120.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0001.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0801.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0921.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0881.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0201.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0681.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0441.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0521.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1041.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0121.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0161.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0401.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0241.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0361.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0481.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0561.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0081.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0961.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0761.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1001.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0601.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0721.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0841.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1161.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0281.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0041.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1081.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0321.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0641.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1121.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0002.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0802.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0922.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0202.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0442.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0882.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0122.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1042.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0242.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0082.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0682.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0402.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0362.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0762.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0282.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0562.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0162.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0962.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0722.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0602.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0482.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1002.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0522.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0322.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0842.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1162.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0042.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1082.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0642.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1122.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0003.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0803.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0443.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0923.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0203.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0883.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0123.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1043.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0363.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0083.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0763.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0403.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0243.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0563.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0683.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0043.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0723.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0163.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0323.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0283.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0603.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0843.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1163.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0963.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0523.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1003.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0483.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0643.raw, successed
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+create segment success, size = 402654144bytes, 0.375001 GB
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1123.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1083.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0004.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0804.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0444.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1044.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0924.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0204.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0124.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0084.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0764.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0564.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0884.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0404.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0364.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0244.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0724.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0044.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0284.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0164.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0324.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1164.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0684.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0604.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0844.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0964.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0524.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0484.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1004.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0644.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1124.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1084.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0005.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0805.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0445.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1045.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0085.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0125.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0205.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0765.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0925.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0405.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0565.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0885.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0045.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0725.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0365.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0245.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0285.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0165.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1165.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0325.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0685.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0605.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0845.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0485.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0965.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0525.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1085.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1125.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1005.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0645.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0006.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0806.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0446.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1046.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0086.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0126.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0206.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0046.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0766.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0726.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0406.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0566.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0926.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0886.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0366.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0246.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0166.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0286.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0326.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0686.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0606.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1166.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0526.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0966.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0846.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0486.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0646.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1086.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1126.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1006.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0007.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0807.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0447.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1047.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0087.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0207.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0767.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0727.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0047.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0127.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0567.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0887.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0247.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0167.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0367.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0407.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0287.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0327.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0927.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0687.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0607.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1167.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0527.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0967.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0647.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0847.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0487.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1087.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1007.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0008.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0808.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1127.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0088.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1048.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0448.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0208.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0728.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0768.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0048.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0128.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0568.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0248.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0328.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0368.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0168.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0288.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0888.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0408.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0928.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1168.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0608.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0528.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0688.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0648.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0968.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0848.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0488.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0809.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0009.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1088.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1008.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1128.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0089.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0449.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1049.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0729.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0209.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0769.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0129.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0049.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0569.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0249.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0289.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0169.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0329.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0409.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0369.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1169.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0889.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0929.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0609.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0529.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0689.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0969.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0649.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0810.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0489.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0010.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0849.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1089.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1009.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0450.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1129.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1050.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0090.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0730.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0130.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0210.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0770.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0570.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0050.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0290.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0250.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1170.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0330.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0370.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0170.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0410.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0890.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0610.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0930.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0530.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0690.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0970.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0650.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0811.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0011.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0490.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1090.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0850.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1010.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0451.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1051.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1130.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0091.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0731.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0131.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0211.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0771.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0571.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1171.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0331.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0171.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0411.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0251.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0291.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0051.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0371.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0611.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0891.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0931.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0531.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0691.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0971.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0651.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0812.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0012.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0851.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1091.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0491.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1011.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0452.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0092.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1052.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1131.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0132.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0732.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0212.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0772.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0412.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1172.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0572.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0332.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0052.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0172.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0252.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0292.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0372.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0612.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0892.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0932.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0532.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0692.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0652.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0813.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0972.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0013.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0852.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1092.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1012.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0492.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0453.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0093.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1053.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1132.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0133.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0733.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0413.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0053.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0213.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0773.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0333.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1173.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0573.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0173.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0293.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0253.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0373.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0613.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0533.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0893.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0933.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0653.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0693.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0814.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0973.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0014.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0853.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1093.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1013.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0493.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0454.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1054.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0094.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0134.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0734.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1133.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0414.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0054.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0334.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0214.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1174.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0574.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0174.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0294.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0774.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0254.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0614.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0534.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0374.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0894.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0934.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0654.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0694.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0815.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0974.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0015.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0455.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0854.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1094.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1014.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0494.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0095.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1055.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0135.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0735.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0415.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1134.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0055.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1175.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0255.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0215.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0335.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0175.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0295.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0775.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0575.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0535.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0615.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0895.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0375.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0935.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0695.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0456.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0016.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0655.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0816.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0975.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0855.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1095.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0096.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1015.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0495.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0416.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0136.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1056.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0736.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1135.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0056.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1176.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0256.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0296.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0176.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0216.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0776.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0616.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0536.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0336.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0576.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0896.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0376.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0936.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0457.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0696.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0017.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0817.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0976.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0656.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0097.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0856.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1096.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1016.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0417.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0496.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0137.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0737.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1057.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1136.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1177.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0057.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0257.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0297.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0177.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0217.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0777.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0537.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0617.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0897.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0337.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0577.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0377.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0458.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0937.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0018.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0697.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0098.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0818.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0977.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0657.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0857.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1097.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1017.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0418.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0497.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1058.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0058.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1178.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1137.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0138.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0258.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0298.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0178.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0218.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0738.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0538.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0898.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0778.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0618.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0459.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0378.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0338.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0938.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0578.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0019.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0819.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0698.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0099.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0978.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0858.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0658.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1098.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0419.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1018.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0498.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1059.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0059.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1179.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1138.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0139.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0179.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0299.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0259.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0899.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0219.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0539.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0739.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0619.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0779.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0460.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0379.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0939.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0339.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0579.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0020.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0820.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0859.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0979.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0100.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0659.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0699.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0420.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1099.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1019.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0499.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1060.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0060.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1180.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1139.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0140.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0180.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0900.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0300.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0260.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0220.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0540.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0740.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0620.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0780.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0461.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0380.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0340.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0940.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0580.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0021.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0860.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0821.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0980.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0660.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0101.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0700.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0421.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1100.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1020.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0500.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1061.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1181.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0061.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0141.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1140.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0181.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0901.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0301.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0221.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0261.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0741.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0541.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0621.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0462.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0781.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0381.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0581.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0341.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0941.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0861.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0022.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0822.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0981.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0661.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0102.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0701.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0422.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1101.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1021.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0501.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1182.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1062.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0142.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0062.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0182.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0902.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1141.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0302.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0222.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0262.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0742.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0542.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0463.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0622.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0382.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0782.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0862.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0582.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0342.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0942.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0023.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0823.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0662.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0982.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0103.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0423.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0702.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1102.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1022.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0502.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1183.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0143.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1063.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0063.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0903.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0183.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0303.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1142.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0223.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0743.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0263.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0543.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0464.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0623.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0863.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0383.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0783.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0583.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0024.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0343.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0943.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0824.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0424.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0983.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0663.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0104.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0703.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1023.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1103.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0144.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1184.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0503.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0904.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1064.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0064.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0184.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0304.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1143.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0465.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0224.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0544.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0744.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0264.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0624.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0864.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0384.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0784.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0025.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0584.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0344.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0944.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0825.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0425.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0664.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0105.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0984.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1024.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0145.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1104.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1185.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0704.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0504.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0905.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1065.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0065.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0185.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0305.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0466.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0225.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1144.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0545.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0745.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0625.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0265.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0865.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0385.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0785.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0026.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0585.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0345.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0826.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0945.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0426.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0106.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0665.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0985.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0146.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1025.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1105.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1186.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0505.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0705.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0906.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1066.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0186.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0467.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0066.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0306.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0226.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0546.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1145.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0746.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0626.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0866.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0266.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0386.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0027.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0786.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0586.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0427.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0827.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0346.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0946.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0107.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0666.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0986.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0147.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1026.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1187.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1106.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0506.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0907.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1067.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0706.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0187.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0468.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0067.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0307.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0547.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0227.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1146.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0747.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0627.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0867.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0267.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0387.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0028.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0787.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0428.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0587.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0828.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0347.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0947.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0108.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0667.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0987.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0148.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1027.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1188.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1107.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0507.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1068.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0908.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0469.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0188.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0308.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0707.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0068.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0548.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0228.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1147.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0748.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0868.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0628.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0268.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0388.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0429.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0029.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0788.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0588.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0829.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0348.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0948.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0109.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0149.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0668.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0988.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1028.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1189.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0508.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1108.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0189.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1069.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0909.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0470.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0309.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0069.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0708.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0549.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0229.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0749.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1148.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0869.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0629.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0269.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0430.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0389.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0030.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0789.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0830.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0589.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0349.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0949.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0150.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0110.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0669.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0989.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1029.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1190.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0190.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0509.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1070.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1109.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0310.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0910.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0471.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0550.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0070.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0709.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0230.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0750.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1149.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0870.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0630.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0270.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0431.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0390.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0031.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0790.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0831.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0590.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0350.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0151.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0950.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0111.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0670.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0990.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1030.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1191.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0191.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0311.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0510.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1071.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0472.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0911.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0551.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1110.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0071.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0710.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0751.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0231.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1150.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0871.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0631.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0271.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0432.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0391.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0032.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0791.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0832.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0152.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0351.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0951.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0591.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0112.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0671.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0991.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1031.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1192.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0192.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0312.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0473.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0552.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1072.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0912.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0511.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0072.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1111.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0752.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0232.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0711.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1151.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0872.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0272.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0632.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0433.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0033.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0392.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0792.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0153.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0833.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0352.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0952.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0113.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0592.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0992.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1032.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0672.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1193.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0193.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0474.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0313.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0553.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1073.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0913.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0512.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0753.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0233.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1112.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0073.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0712.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1152.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0873.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0273.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0434.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0633.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0034.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0393.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0154.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0793.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0834.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0353.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0114.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0953.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0593.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1033.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0993.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1194.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0673.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0475.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0314.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0194.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0554.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1074.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0914.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0513.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0754.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0234.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0874.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1113.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1153.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0074.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0713.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0274.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0435.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0634.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0035.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0394.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0155.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0794.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0835.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0354.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0115.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0954.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0594.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1034.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0994.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1195.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0476.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0674.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0315.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0195.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0555.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1075.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0915.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0514.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0755.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0235.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0875.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1154.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1114.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0075.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0714.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0436.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0275.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0635.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0036.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0156.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0395.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0795.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0836.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0355.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0116.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1035.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0955.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0995.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0595.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1196.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0477.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0675.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0316.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0196.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0556.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1076.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0916.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0756.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0236.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0876.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0515.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1155.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1115.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0437.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0715.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0076.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0276.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0636.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0037.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0157.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0396.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0796.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0837.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0117.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0356.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1197.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1036.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0996.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0596.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0956.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0478.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0676.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0317.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0197.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0557.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1077.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0917.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0877.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0757.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0237.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1156.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1116.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0516.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0277.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0716.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0077.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0637.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0038.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0158.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0397.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0438.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0797.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0838.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0118.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0357.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0479.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1198.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1037.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0597.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0997.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0957.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0677.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0198.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0318.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0558.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1078.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0918.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0878.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0758.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0238.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1157.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1117.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0278.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0517.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0078.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0717.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0638.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0039.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0159.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0398.raw, successed
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0439.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0798.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0119.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0839.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0358.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1199.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0998.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0598.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0958.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0678.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0199.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0319.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0559.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1038.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1079.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0919.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0759.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0239.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0879.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1158.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0079.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1118.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0279.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0518.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0718.raw, successed
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0639.raw, successed
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0399.raw, successed
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0799.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0359.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0999.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0599.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0959.raw, successed
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0679.raw, successed
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1039.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1159.raw, successed
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img1119.raw, successed
+End   Worker...
+End   WorkerThread
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0519.raw, successed
+load : ../../data/phantom3d/shepp-logan_w2048_h2048_c1200/img0719.raw, successed
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+End   Worker...
+End   WorkerThread
+-->rank=81,proc_count=1200
+-->rank=90,proc_count=1200
+-->rank=99,proc_count=1200
+-->rank=117,proc_count=1200
+-->rank=108,proc_count=1200
+-->rank=126,proc_count=1200
+-->rank=135,proc_count=1200
+-->rank=144,proc_count=1200
+-->rank=153,proc_count=1200
+-->rank=162,proc_count=1200
+-->rank=207,proc_count=1200
+-->rank=252,proc_count=1200
+-->rank=171,proc_count=1200
+-->rank=216,proc_count=1200
+-->rank=180,proc_count=1200
+-->rank=261,proc_count=1200
+-->rank=198,proc_count=1200
+-->rank=225,proc_count=1200
+-->rank=0,proc_count=1200
+-->rank=189,proc_count=1200
+-->rank=9,proc_count=1200
+-->rank=234,proc_count=1200
+-->rank=18,proc_count=1200
+-->rank=243,proc_count=1200
+-->rank=72,proc_count=1200
+-->rank=27,proc_count=1200
+-->rank=36,proc_count=1200
+-->rank=45,proc_count=1200
+-->rank=54,proc_count=1200
+-->rank=63,proc_count=1200
+=====>Done, rank=9
+worker_thread->Destroy(), rank=9
+snd_thread->Destroy(), rank=9
+=====>Done, rank=18
+worker_thread->Destroy(), rank=18
+snd_thread->Destroy(), rank=18
+=====>Done, rank=36
+=====>Done, rank=27
+worker_thread->Destroy(), rank=27
+snd_thread->Destroy(), rank=27
+worker_thread->Destroy(), rank=36
+snd_thread->Destroy(), rank=36
+=====>Done, rank=63
+=====>Done, rank=54
+worker_thread->Destroy(), rank=54
+=====>Done, rank=45
+worker_thread->Destroy(), rank=45
+snd_thread->Destroy(), rank=45
+worker_thread->Destroy(), rank=63
+snd_thread->Destroy(), rank=54
+snd_thread->Destroy(), rank=63
+=====>Done, rank=72
+worker_thread->Destroy(), rank=72
+snd_thread->Destroy(), rank=72
+=====>Done, rank=90
+worker_thread->Destroy(), rank=90
+snd_thread->Destroy(), rank=90
+=====>Done, rank=81
+worker_thread->Destroy(), rank=81
+snd_thread->Destroy(), rank=81
+=====>Done, rank=99
+worker_thread->Destroy(), rank=99
+=====>Done, rank=117
+worker_thread->Destroy(), rank=117
+=====>Done, rank=108
+worker_thread->Destroy(), rank=108
+snd_thread->Destroy(), rank=108
+snd_thread->Destroy(), rank=117
+snd_thread->Destroy(), rank=99
+=====>Done, rank=126
+worker_thread->Destroy(), rank=126
+snd_thread->Destroy(), rank=126
+=====>Done, rank=135
+worker_thread->Destroy(), rank=135
+snd_thread->Destroy(), rank=135
+=====>Done, rank=144
+worker_thread->Destroy(), rank=144
+snd_thread->Destroy(), rank=144
+=====>Done, rank=180
+worker_thread->Destroy(), rank=180
+snd_thread->Destroy(), rank=180
+=====>Done, rank=153
+worker_thread->Destroy(), rank=153
+snd_thread->Destroy(), rank=153
+=====>Done, rank=162
+worker_thread->Destroy(), rank=162
+snd_thread->Destroy(), rank=162
+=====>Done, rank=171
+worker_thread->Destroy(), rank=171
+snd_thread->Destroy(), rank=171
+=====>Done, rank=189
+worker_thread->Destroy(), rank=189
+=====>Done, rank=198
+worker_thread->Destroy(), rank=198
+snd_thread->Destroy(), rank=198
+snd_thread->Destroy(), rank=189
+=====>Done, rank=0
+worker_thread->Destroy(), rank=0
+=====>Done, rank=207
+worker_thread->Destroy(), rank=207
+snd_thread->Destroy(), rank=207
+snd_thread->Destroy(), rank=0
+=====>Done, rank=225
+worker_thread->Destroy(), rank=225
+snd_thread->Destroy(), rank=225
+=====>Done, rank=216
+worker_thread->Destroy(), rank=216
+=====>Done, rank=243
+worker_thread->Destroy(), rank=243
+snd_thread->Destroy(), rank=216
+=====>Done, rank=234
+worker_thread->Destroy(), rank=234
+snd_thread->Destroy(), rank=234
+=====>Done, rank=252
+worker_thread->Destroy(), rank=252
+snd_thread->Destroy(), rank=252
+snd_thread->Destroy(), rank=243
+=====>Done, rank=261
+worker_thread->Destroy(), rank=261
+snd_thread->Destroy(), rank=261
+~~~Exit: rank=20
+~~~Exit: rank=15
+~~~Exit: rank=38
+~~~Exit: rank=19
+~~~Exit: rank=24
+~~~Exit: rank=41
+~~~Exit: rank=14
+~~~Exit: rank=46
+~~~Exit: rank=55
+~~~Exit: rank=29
+~~~Exit: rank=51
+~~~Exit: rank=33
+~~~Exit: rank=42
+~~~Exit: rank=56
+~~~Exit: rank=50
+~~~Exit: rank=47
+~~~Exit: rank=92
+~~~Exit: rank=83
+~~~Exit: rank=78
+~~~Exit: rank=87
+~~~Exit: rank=119
+~~~Exit: rank=127
+~~~Exit: rank=123
+~~~Exit: rank=105
+~~~Exit: rank=114
+~~~Exit: rank=122
+~~~Exit: rank=137
+~~~Exit: rank=128
+~~~Exit: rank=104
+~~~Exit: rank=146
+~~~Exit: rank=118
+~~~Exit: rank=109
+~~~Exit: rank=141
+~~~Exit: rank=132
+~~~Exit: rank=181
+~~~Exit: rank=110
+~~~Exit: rank=155
+~~~Exit: rank=150
+~~~Exit: rank=182
+~~~Exit: rank=113
+~~~Exit: rank=149
+~~~Exit: rank=154
+~~~Exit: rank=177
+~~~Exit: rank=37
+~~~Exit: rank=176
+~~~Exit: rank=136
+~~~Exit: rank=6
+~~~Exit: rank=32
+~~~Exit: rank=2
+~~~Exit: rank=11
+~~~Exit: rank=60
+~~~Exit: rank=82
+~~~Exit: rank=65
+~~~Exit: rank=131
+~~~Exit: rank=227
+~~~Exit: rank=235
+~~~Exit: rank=172
+~~~Exit: rank=226
+~~~Exit: rank=159
+~~~Exit: rank=77
+~~~Exit: rank=164
+~~~Exit: rank=209
+~~~Exit: rank=231
+~~~Exit: rank=254
+~~~Exit: rank=236
+~~~Exit: rank=249
+~~~Exit: rank=222
+~~~Exit: rank=28
+~~~Exit: rank=74
+~~~Exit: rank=167
+~~~Exit: rank=200
+~~~Exit: rank=69
+~~~Exit: rank=230
+~~~Exit: rank=221
+~~~Exit: rank=23
+~~~Exit: rank=204
+~~~Exit: rank=195
+~~~Exit: rank=173
+~~~Exit: rank=245
+~~~Exit: rank=267
+~~~Exit: rank=25
+~~~Exit: rank=30
+~~~Exit: rank=31
+~~~Exit: rank=21
+~~~Exit: rank=101
+~~~Exit: rank=16
+~~~Exit: rank=39
+~~~Exit: rank=73
+~~~Exit: rank=168
+~~~Exit: rank=67
+~~~Exit: rank=240
+~~~Exit: rank=26
+~~~Exit: rank=76
+~~~Exit: rank=64
+~~~Exit: rank=191
+~~~Exit: rank=186
+~~~Exit: rank=96
+~~~Exit: rank=84
+~~~Exit: rank=68
+~~~Exit: rank=62
+~~~Exit: rank=34
+~~~Exit: rank=145
+~~~Exit: rank=59
+~~~Exit: rank=91
+~~~Exit: rank=86
+~~~Exit: rank=66
+~~~Exit: rank=208
+~~~Exit: rank=61
+~~~Exit: rank=75
+~~~Exit: rank=93
+~~~Exit: rank=140
+~~~Exit: rank=71
+~~~Exit: rank=100
+~~~Exit: rank=79
+~~~Exit: rank=95
+~~~Exit: rank=203
+~~~Exit: rank=103
+~~~Exit: rank=98
+~~~Exit: rank=163
+~~~Exit: rank=70
+~~~Exit: rank=102
+~~~Exit: rank=139
+~~~Exit: rank=88
+~~~Exit: rank=97
+~~~Exit: rank=138
+~~~Exit: rank=190
+~~~Exit: rank=120
+~~~Exit: rank=134
+~~~Exit: rank=147
+~~~Exit: rank=165
+~~~Exit: rank=218
+~~~Exit: rank=133
+~~~Exit: rank=175
+~~~Exit: rank=158
+~~~Exit: rank=185
+~~~Exit: rank=142
+~~~Exit: rank=107
+~~~Exit: rank=112
+~~~Exit: rank=160
+~~~Exit: rank=1
+~~~Exit: rank=115
+~~~Exit: rank=263
+~~~Exit: rank=111
+~~~Exit: rank=166
+~~~Exit: rank=213
+~~~Exit: rank=220
+~~~Exit: rank=106
+~~~Exit: rank=170
+~~~Exit: rank=262
+~~~Exit: rank=199
+~~~Exit: rank=193
+~~~Exit: rank=244
+~~~Exit: rank=161
+~~~Exit: rank=188
+~~~Exit: rank=192
+~~~Exit: rank=194
+~~~Exit: rank=215
+~~~Exit: rank=5
+~~~Exit: rank=266
+~~~Exit: rank=202
+~~~Exit: rank=210
+~~~Exit: rank=258
+~~~Exit: rank=239
+~~~Exit: rank=10
+~~~Exit: rank=187
+~~~Exit: rank=205
+~~~Exit: rank=174
+~~~Exit: rank=257
+~~~Exit: rank=219
+~~~Exit: rank=4
+~~~Exit: rank=7
+~~~Exit: rank=201
+~~~Exit: rank=197
+~~~Exit: rank=217
+~~~Exit: rank=12
+~~~Exit: rank=214
+~~~Exit: rank=246
+~~~Exit: rank=169
+~~~Exit: rank=212
+~~~Exit: rank=265
+~~~Exit: rank=196
+~~~Exit: rank=264
+~~~Exit: rank=260
+~~~Exit: rank=256
+~~~Exit: rank=3
+~~~Exit: rank=241
+~~~Exit: rank=251
+~~~Exit: rank=269
+~~~Exit: rank=253
+~~~Exit: rank=247
+~~~Exit: rank=259
+~~~Exit: rank=248
+~~~Exit: rank=255
+~~~Exit: rank=242
+~~~Exit: rank=268
+~~~Exit: rank=250
+rcv_thread->Destroy(), rank=36
+^^^^ all exit
+rcv_thread->Destroy(), rank=18
+^^^^ all exit
+rcv_thread->Destroy(), rank=27
+^^^^ all exit
+rcv_thread->Destroy(), rank=81
+^^^^ all exit
+rcv_thread->Destroy(), rank=90
+^^^^ all exit
+rcv_thread->Destroy(), rank=126
+^^^^ all exit
+rcv_thread->Destroy(), rank=108
+^^^^ all exit
+rcv_thread->Destroy(), rank=153
+^^^^ all exit
+rcv_thread->Destroy(), rank=135
+^^^^ all exit
+rcv_thread->Destroy(), rank=117
+^^^^ all exit
+rcv_thread->Destroy(), rank=45
+^^^^ all exit
+rcv_thread->Destroy(), rank=144
+^^^^ all exit
+rcv_thread->Destroy(), rank=54
+^^^^ all exit
+rcv_thread->Destroy(), rank=162
+^^^^ all exit
+rcv_thread->Destroy(), rank=252
+^^^^ all exit
+rcv_thread->Destroy(), rank=63
+^^^^ all exit
+rcv_thread->Destroy(), rank=225
+^^^^ all exit
+rcv_thread->Destroy(), rank=234
+^^^^ all exit
+rcv_thread->Destroy(), rank=0
+^^^^ all exit
+rcv_thread->Destroy(), rank=207
+^^^^ all exit
+rcv_thread->Destroy(), rank=9
+^^^^ all exit
+rcv_thread->Destroy(), rank=198
+^^^^ all exit
+rcv_thread->Destroy(), rank=72
+^^^^ all exit
+rcv_thread->Destroy(), rank=243
+^^^^ all exit
+rcv_thread->Destroy(), rank=180
+^^^^ all exit
+rcv_thread->Destroy(), rank=99
+^^^^ all exit
+rcv_thread->Destroy(), rank=171
+^^^^ all exit
+rcv_thread->Destroy(), rank=189
+^^^^ all exit
+rcv_thread->Destroy(), rank=216
+^^^^ all exit
+rcv_thread->Destroy(), rank=261
+^^^^ all exit
+~~~Exit: rank=57
+~~~Exit: rank=52
+~~~Exit: rank=48
+~~~Exit: rank=22
+~~~Exit: rank=49
+~~~Exit: rank=17
+~~~Exit: rank=58
+~~~Exit: rank=43
+~~~Exit: rank=40
+~~~Exit: rank=35
+~~~Exit: rank=44
+~~~Exit: rank=53
+~~~Exit: rank=129
+~~~Exit: rank=85
+~~~Exit: rank=124
+~~~Exit: rank=94
+~~~Exit: rank=89
+~~~Exit: rank=130
+~~~Exit: rank=121
+~~~Exit: rank=125
+~~~Exit: rank=80
+~~~Exit: rank=148
+~~~Exit: rank=116
+~~~Exit: rank=223
+~~~Exit: rank=183
+~~~Exit: rank=228
+~~~Exit: rank=151
+~~~Exit: rank=152
+~~~Exit: rank=143
+~~~Exit: rank=157
+~~~Exit: rank=156
+~~~Exit: rank=178
+~~~Exit: rank=184
+~~~Exit: rank=211
+~~~Exit: rank=232
+~~~Exit: rank=237
+~~~Exit: rank=233
+~~~Exit: rank=206
+~~~Exit: rank=229
+~~~Exit: rank=8
+~~~Exit: rank=238
+~~~Exit: rank=13
+~~~Exit: rank=179
+~~~Exit: rank=224
+del segment, id = 2490387
+total time : 7541.83
+del segment, id = 2490387
+total time : 7356.03
+del segment, id = 2490387
+total time : 7475.65
+del segment, id = 2490387
+total time : 7506.3
+del segment, id = 2490387
+total time : 7463.18
+del segment, id = 2490387
+total time : 7452.88
+del segment, id = 2490387
+total time : 7358.54
+del segment, id = 2490387
+total time : 7375.17
+del segment, id = 2490387
+total time : 7494.49
+del segment, id = 2490387
+total time : 7350.77
+del segment, id = 2490387
+total time : 7434.31
+del segment, id = 2490387
+total time : 7260.84
+del segment, id = 2490387
+total time : 7374.93
+del segment, id = 2490387
+total time : 7461.7
+del segment, id = 2490387
+total time : 7334.49
+del segment, id = 2490387
+total time : 7507.75
+del segment, id = 2490387
+total time : 7060.42
+del segment, id = 2490387
+total time : 7374.95
+del segment, id = 2490387
+total time : 7514.03
+del segment, id = 2490387
+total time : 7074.89
+del segment, id = 2490387
+total time : 7451.01
+del segment, id = 2490387
+total time : 7438.6
+del segment, id = 2490387
+total time : 7375.81
+del segment, id = 2490387
+total time : 7438.71
+del segment, id = 2490387
+total time : 7397.9
+del segment, id = 2490387
+total time : 7508.66
+del segment, id = 2490387
+total time : 7496.63
+del segment, id = 2490387
+total time : 7452.46
+del segment, id = 2490387
+total time : 7518.86
+del segment, id = 2490387
+total time : 7559.96
+del segment, id = 2490387
+total time : 7609.05
+del segment, id = 2490387
+total time : 7516.96
+del segment, id = 2490387
+total time : 7493.94
+del segment, id = 2490387
+total time : 7614.82
+del segment, id = 2490387
+total time : 7434.18
+del segment, id = 2490387
+total time : 7665.36
+del segment, id = 2490387
+total time : 7640.54
+del segment, id = 2490387
+total time : 7616.99
+del segment, id = 2490387
+total time : 7645.58
+del segment, id = 2490387
+total time : 7686.68
+del segment, id = 2490387
+total time : 7713.98
+del segment, id = 2490387
+total time : 7618.49
+del segment, id = 2490387
+total time : 7577.9
+del segment, id = 2490387
+total time : 7574.76
+del segment, id = 2490387
+total time : 7611.34
+del segment, id = 2490387
+total time : 7551.82
+del segment, id = 2490387
+total time : 7529.71
+del segment, id = 2490387
+total time : 7668.41
+del segment, id = 2490387
+total time : 7686.53
+del segment, id = 2490387
+total time : 7515.35
+del segment, id = 2490387
+total time : 7652.83
+del segment, id = 2490387
+total time : 7623.35
+del segment, id = 2490387
+total time : 7585.81
+del segment, id = 2490387
+total time : 7539.01
+del segment, id = 2490387
+total time : 7642.27
+del segment, id = 2490387
+total time : 7244.58
+del segment, id = 2490387
+total time : 7405.99
+del segment, id = 2490387
+total time : 7663.14
+del segment, id = 2490387
+total time : 7267.55
+del segment, id = 2490387
+total time : 7261.92
+del segment, id = 2490387
+total time : 7569.78
+del segment, id = 2490387
+total time : 7505.53
+del segment, id = 2490387
+total time : 7570.96
+del segment, id = 2490387
+total time : 7432.92
+del segment, id = 2490387
+total time : 7528.91
+del segment, id = 2490387
+total time : 7673.13
+del segment, id = 2490387
+total time : 7653.36
+del segment, id = 2490387
+total time : 7689.88
+del segment, id = 2490387
+total time : 7631.62
+del segment, id = 2490387
+total time : 7676.34
+del segment, id = 2490387
+total time : 7673.38
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7757.18
+total time : 7657.58
+del segment, id = 2490387
+total time : 7638.55
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7579.9
+del segment, id = 2490387
+total time : 7558.63
+del segment, id = 2490387
+total time : 7701.63
+del segment, id = 2490387
+total time : 7618.04
+total time : 7609.16
+del segment, id = 2490387
+total time : 7725.04
+del segment, id = 2490387
+total time : 7566.11
+del segment, id = 2490387
+total time : 7755.45
+del segment, id = 2490387
+total time : 7669.1
+del segment, id = 2490387
+total time : 7583.56
+del segment, id = 2490387
+total time : 7663.84
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7738.32
+total time : 7584.81
+del segment, id = 2490387
+total time : 7469.88
+del segment, id = 2490387
+total time : 7616.63
+del segment, id = 2490387
+total time : 7411.98
+del segment, id = 2490387
+total time : 7712.81
+del segment, id = 2490387
+total time : 7690.04
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7767.33
+total time : 7678.59
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7771.35
+total time : 7710.6
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7773.67
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7718.73
+total time : 7646.85
+total time : 7696.67
+del segment, id = 2490387
+total time : 7640.79
+del segment, id = 2490387
+total time : 7628.28
+del segment, id = 2490387
+total time : 7585.02
+total time : 7553.24
+del segment, id = 2490387
+total time : 7659.38
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7385.37
+del segment, id = 2490387
+total time : 7612.95
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7699.23
+del segment, id = 2490387
+total time : 7358.21
+total time : 7651.85
+total time : 7768.51
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7693.18
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7698.14
+del segment, id = 2490387
+total time : 7461.07
+del segment, id = 2490387
+total time : 7675.82
+total time : 7692.71
+del segment, id = 2490387
+total time : 7618.44
+del segment, id = 2490387
+total time : 7577.6
+total time : 7794.55
+del segment, id = 2490387
+total time : 7655.75
+total time : 7704.98
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7375.21
+del segment, id = 2490387
+total time : 7679.62
+del segment, id = 2490387
+total time : 7721.94
+del segment, id = 2490387
+total time : 7656.61
+total time : 7647.2
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7628.88
+total time : 7657.33
+del segment, id = 2490387
+total time : 7372.74
+total time : 7752.3
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7720.19
+total time : 7537.89
+del segment, id = 2490387
+total time : 7634.27
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7670.84
+total time : 7660.31
+del segment, id = 2490387
+total time : 7604.49
+del segment, id = 2490387
+total time : 7580.33
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7678.74
+total time : 7700.89
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7666.46
+del segment, id = 2490387
+total time : 7708.11
+del segment, id = 2490387
+total time : 7400.41
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7601.85
+total time : 7679.78
+total time : 7671.62
+del segment, id = 2490387
+total time : 7454.97
+del segment, id = 2490387
+total time : 7628.49
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7634.12
+total time : 7595.32
+total time : 7382.66
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7550.96
+del segment, id = 2490387
+total time : 7680.3
+del segment, id = 2490387
+total time : 7620.89
+del segment, id = 2490387
+total time : 7681.34
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7679
+total time : 7765.5
+del segment, id = 2490387
+total time : 7694.67
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7707.57
+total time : 7310.22
+total time : 7401.28
+total time : 7678.41
+del segment, id = 2490387
+total time : 7728.88
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7674
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7731.34
+del segment, id = 2490387
+total time : 7671.95
+total time : 7726.38
+del segment, id = 2490387
+total time : 7611.96
+total time : 7640.75
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7700.65
+total time : 7800.61
+del segment, id = 2490387
+total time : 7718.73
+del segment, id = 2490387
+total time : 7609.73
+del segment, id = 2490387
+total time : 7605.34
+del segment, id = 2490387
+total time : 7670.21
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7778.44
+total time : 7678.57
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7760.22
+total time : 7746.68
+del segment, id = 2490387
+total time : 7648.15
+del segment, id = 2490387
+total time : 7621.53
+del segment, id = 2490387
+total time : 7750.76
+del segment, id = 2490387
+total time : 7766.99
+del segment, id = 2490387
+total time : 7771.52
+del segment, id = 2490387
+total time : 7547.33
+del segment, id = 2490387
+total time : 7409.67
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7634.63
+total time : 7697.71
+del segment, id = 2490387
+total time : 7382.19
+del segment, id = 2490387
+total time : 7724.54
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7532.59
+total time : 7714.6
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7544.26
+del segment, id = 2490387
+total time : 7601.65
+del segment, id = 2490387
+total time : 7700.43
+total time : 7729.62
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7695.18
+total time : 7669.36
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7645.23
+total time : 7650.97
+total time : 7625.32
+total time : 7762.4
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7708.29
+del segment, id = 2490387
+total time : 7707
+total time : 7469.93
+del segment, id = 2490387
+total time : 7682.51
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7610.92
+total time : 7680.51
+del segment, id = 2490387
+total time : 7593.14
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7612.71
+total time : 7653.51
+del segment, id = 2490387
+total time : 7704.67
+total time : 7592.76
+total time : 7767.57
+total time : 7715.65
+del segment, id = 2490387
+total time : 7719.32
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7641.01
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7668.85
+total time : 7631.28
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7675.6
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7425.17
+total time : 7570.7
+total time : 7430.3
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7651.69
+total time : 7702.63
+del segment, id = 2490387
+total time : 7671.08
+del segment, id = 2490387
+total time : 7696.39
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7712.01
+total time : 7668.96
+del segment, id = 2490387
+total time : 7640.99
+total time : 7678.8
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7541.03
+del segment, id = 2490387
+total time : 7580.14
+del segment, id = 2490387
+total time : 7764.49
+del segment, id = 2490387
+total time : 7714.11
+del segment, id = 2490387
+total time : 7715.26
+del segment, id = 2490387
+total time : 7672.86
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7636.15
+total time : 7611.18
+del segment, id = 2490387
+total time : 7634.8
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7494.89
+total time : 7709.08
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7752.57
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7725.07
+total time : 7685.42
+total time : 7584.29
+del segment, id = 2490387
+total time : 7732.81
+del segment, id = 2490387
+total time : 7662.64
+del segment, id = 2490387
+total time : 7681.65
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7603.09
+total time : 7631.63
+del segment, id = 2490387
+total time : 7548.78
+del segment, id = 2490387
+total time : 7672.02
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7823.33
+del segment, id = 2490387
+total time : 7588.08
+total time : 7693.59
+total time : 7552.88
+del segment, id = 2490387
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7756.16
+total time : 7792.34
+total time : 7600.74
+del segment, id = 2490387
+total time : 7565.95
+del segment, id = 2490387
+total time : 7707.05
+del segment, id = 2490387
+total time : 7609.7
+del segment, id = 2490387
+del segment, id = 2490387
+total time : 7628.09
+total time : 7602.45
+del segment, id = 2490387
+total time : 7674.5
+del segment, id = 2490387
+total time : 7626.54
+del segment, id = 2490387
+total time : 7495.36
+del segment, id = 2490387
+total time : 7713
+del segment, id = 2490387
+total time : 7677.63
+del segment, id = 2490387
+total time : 7659.02

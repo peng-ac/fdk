@@ -1,0 +1,20 @@
+for (( c=1; c<=3000; c++ )) do  
+   echo ""
+done
+clear
+
+W=512
+V=1024
+
+NU=$W
+NV=$W
+PROJS=32
+NX=$V
+NY=$V
+NZ=2048
+TOTAL_PROJ=16384
+#TOTAL_PROJ=512
+SRC_DIR=$HOME/data/
+DST_DIR=$HOME/dump/
+SAVE=0
+CUDA_HOME=~/local/cuda-9.0 PATH=$CUDA_HOME/bin:$PATH LD_LIBRARY_PATH=$CUDA_HOME/lib64:$LD_LIBRARY_PATH ./Release/cudaBP $NU $NV $PROJS $NX $NY $NZ $TOTAL_PROJ $SRC_DIR $DST_DIR $SAVE

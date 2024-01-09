@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<TestFrameworkDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>com.sysprogs.unittest.googletest</ID>
+  <Name>GoogleTest</Name>
+  <Version>20170928</Version>
+  <CPPOnly>true</CPPOnly>
+  <Common>
+    <AdditionalSourceFiles>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-death-test.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-filepath.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-port.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-printers.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-test-part.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-typed-test.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest.cc</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/Platforms/SysprogsTestHooks.cpp</string>
+    </AdditionalSourceFiles>
+    <AdditionalHeaderFiles>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-death-test.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-message.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-param-test.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-printers.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-spi.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-test-part.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest-typed-test.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest_pred_impl.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/gtest_prod.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-death-test-internal.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-filepath.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-internal.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-linked_ptr.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-param-util-generated.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-param-util.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-port-arch.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-port.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-string.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-tuple.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/gtest-type-util.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/custom/gtest-port.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/custom/gtest-printers.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include/gtest/internal/custom/gtest.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/src/gtest-internal-inl.h</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/Platforms/SysprogsTestHooks.h</string>
+    </AdditionalHeaderFiles>
+    <AdditionalIncludeDirs>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/include</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest</string>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/Platforms</string>
+    </AdditionalIncludeDirs>
+    <ConfigurableProperties>
+      <PropertyGroups>
+        <PropertyGroup>
+          <Properties>
+            <PropertyEntry xsi:type="Integral">
+              <Name>Test time-out (seconds)</Name>
+              <UniqueID>com.sysprogs.testsettings.timeout</UniqueID>
+              <OmitPrefixIfEmpty>false</OmitPrefixIfEmpty>
+              <Description>Specifies the maximum delay</Description>
+              <DefaultValue>1800</DefaultValue>
+              <MinValue>0</MinValue>
+              <MaxValue>86400</MaxValue>
+              <Increment>1</Increment>
+            </PropertyEntry>
+            <PropertyEntry xsi:type="Boolean">
+              <Name>Show class name in test names</Name>
+              <UniqueID>com.sysprogs.tests.shortnames</UniqueID>
+              <OmitPrefixIfEmpty>false</OmitPrefixIfEmpty>
+              <DefaultValue>true</DefaultValue>
+              <ValueForTrue>0</ValueForTrue>
+              <ValueForFalse>1</ValueForFalse>
+            </PropertyEntry>
+          </Properties>
+          <CollapsedByDefault>false</CollapsedByDefault>
+        </PropertyGroup>
+      </PropertyGroups>
+    </ConfigurableProperties>
+    <Samples>
+      <TestFrameworkSample>
+        <UserFriendlyName>Basic GoogleTest Demo</UserFriendlyName>
+        <Files>
+          <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/samples/$$PROJECTNAME$$Tests.cpp</string>
+        </Files>
+      </TestFrameworkSample>
+    </Samples>
+    <IncludeLines>
+      <string>#include &lt;gtest/gtest.h&gt;</string>
+    </IncludeLines>
+    <RequiredFunctions>
+      <string>_ZN7testing8internal12UnitTestImpl11RunAllTestsEv</string>
+    </RequiredFunctions>
+    <TestDiscoverers>
+      <TestDiscoverer xsi:type="SymbolBasedScopedTestDiscoverer">
+        <TargetDemangledNames>true</TargetDemangledNames>
+        <TestSymbolRegex>^(.*)_(.*)_Test::TestBody\(\)$</TestSymbolRegex>
+        <UniqueNameFormat>{2}_{3}</UniqueNameFormat>
+        <UserFriendlyNameFormat>{2}::{3}</UserFriendlyNameFormat>
+        <ShortUserFriendlyNameFormat>{3}</ShortUserFriendlyNameFormat>
+        <LocationSymbolFormat />
+      </TestDiscoverer>
+    </TestDiscoverers>
+    <TestHooks>
+      <TestHook xsi:type="TestsCompletedHook">
+        <Expression>SysprogsTestHook_TestsCompleted</Expression>
+        <Required>true</Required>
+        <SkippedFrames>0</SkippedFrames>
+      </TestHook>
+      <TestHook xsi:type="GenericFailHook">
+        <Expression>SysprogsTestHook_TestFailed</Expression>
+        <Required>true</Required>
+        <SkippedFrames>3</SkippedFrames>
+        <AbortFurtherTests>false</AbortFurtherTests>
+      </TestHook>
+    </TestHooks>
+  </Common>
+  <Embedded>
+    <AdditionalSourceFiles>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/Platforms/Embedded/GoogleTestEmbeddedStubs.cpp</string>
+    </AdditionalSourceFiles>
+    <AdditionalHeaderFiles />
+    <AdditionalIncludeDirs>
+      <string>$$SYS:TESTFW_BASE$$/com.sysprogs.unittest.googletest/platforms/Embedded</string>
+    </AdditionalIncludeDirs>
+    <AdditionalPreprocessorMacros>
+      <string>SYSPROGS_TEST_PLATFORM_EMBEDDED</string>
+    </AdditionalPreprocessorMacros>
+    <InitializationLines>
+      <string>char *argv = (char *)"";</string>
+      <string>int argc = 1;</string>
+      <string>testing::InitGoogleTest(&amp;argc, &amp;argv);</string>
+      <string>(void)RUN_ALL_TESTS();</string>
+    </InitializationLines>
+    <TestSelection xsi:type="HookBasedTestSelectionViaNames">
+      <HookedEntry>SysprogsTestHook_SelectTests</HookedEntry>
+      <TestCountExpression>testCount</TestCountExpression>
+      <AddressOfTestArrayExpression>pTests</AddressOfTestArrayExpression>
+      <TestNameExpression>{((testing::TestInfo*){&amp;})-&gt;test_case_name_-&gt;_M_dataplus-&gt;_M_p:s}_{((testing::TestInfo*){&amp;})-&gt;name_-&gt;_M_dataplus-&gt;_M_p:s}</TestNameExpression>
+    </TestSelection>
+    <TestReportChannel xsi:type="SemihostingBasedTestChannel">
+      <ChannelNumber>0</ChannelNumber>
+    </TestReportChannel>
+    <RequiredFrameworks>
+      <string>com.sysprogs.embedded.semihosting_and_profiler@1.1</string>
+    </RequiredFrameworks>
+  </Embedded>
+  <Linux>
+    <AdditionalSourceFiles />
+    <AdditionalHeaderFiles />
+    <AdditionalPreprocessorMacros />
+    <AdditionalLibraries>
+      <string>pthread</string>
+    </AdditionalLibraries>
+    <InitializationLines>
+      <string>testing::InitGoogleTest(&amp;argc, argv);</string>
+      <string>return RUN_ALL_TESTS();</string>
+    </InitializationLines>
+    <AdvancedTestDiscoverers>
+      <TestDiscoverer xsi:type="OutputBasedTestDiscoverer">
+        <TargetDemangledNames>true</TargetDemangledNames>
+        <CommandLineArguments>--gtest_list_tests</CommandLineArguments>
+        <TestGroupRegex>^(|[^/]+/)([^ \t/]+)\.$</TestGroupRegex>
+        <TestRegex>^[ \t]+([^ \t/]+)(|/[^ \t/]+)($| )</TestRegex>
+        <UniqueNameFormat>{1}{2}_{4}{5}</UniqueNameFormat>
+        <StructuredInternalNameFormat>{1}{2}.{4}{5}</StructuredInternalNameFormat>
+        <UserFriendlyNameFormat>{1}{2}::{4}{5}</UserFriendlyNameFormat>
+        <ShortUserFriendlyNameFormat>{4}{5}</ShortUserFriendlyNameFormat>
+        <LocationSymbolFormat>{2}_{4}_Test::TestBody()</LocationSymbolFormat>
+      </TestDiscoverer>
+    </AdvancedTestDiscoverers>
+    <TestSelection xsi:type="ArgumentBasedTestSelection">
+      <GlobalArgumentTemplate>--gtest_filter=$(PerTestArguments)</GlobalArgumentTemplate>
+      <PerTestArgumentTemplate>$(1).$(2)</PerTestArgumentTemplate>
+      <PerTestArgumentSeparator>:</PerTestArgumentSeparator>
+      <TestIDRegex>(.*)_(.*)</TestIDRegex>
+    </TestSelection>
+    <TestReportChannel xsi:type="PipeBasedTestChannelWithEnv">
+      <PipeTimestampVariableName>g_SysprogsTestReportTimestamp</PipeTimestampVariableName>
+      <EnvironmentVariableName>SYSPROGS_TEST_REPORTING_PIPE</EnvironmentVariableName>
+    </TestReportChannel>
+  </Linux>
+  <AndroidCommandLine>
+    <AdditionalPreprocessorMacros>
+      <string>GTEST_OS_LINUX_ANDROID</string>
+    </AdditionalPreprocessorMacros>
+    <AdditionalLibraries>
+      <string>pthread</string>
+    </AdditionalLibraries>
+    <TestReportChannel xsi:type="LocalSocketTestChannelWithEnv">
+      <PipeTimestampVariableName>g_SysprogsTestReportTimestamp</PipeTimestampVariableName>
+      <EnvironmentVariableName>SYSPROGS_TEST_REPORTING_SOCKET</EnvironmentVariableName>
+      <SocketReadyHook>SysprogsTestHook_ReportingSocketReady</SocketReadyHook>
+    </TestReportChannel>
+    <InheritsFromLinux>true</InheritsFromLinux>
+    <UsesSTL>true</UsesSTL>
+    <UsesExceptions>true</UsesExceptions>
+  </AndroidCommandLine>
+  <AndroidApp>
+    <AdditionalPreprocessorMacros>
+      <string>GTEST_OS_LINUX_ANDROID</string>
+    </AdditionalPreprocessorMacros>
+    <AdditionalLibraries>
+      <string>pthread</string>
+    </AdditionalLibraries>
+    <InitializationLines>
+      <string>char *argv = (char *)"";</string>
+      <string>int argc = 1;</string>
+      <string>testing::InitGoogleTest(&amp;argc, &amp;argv);</string>
+      <string>(void)RUN_ALL_TESTS();</string>
+    </InitializationLines>
+    <TestSelection xsi:type="HookBasedTestSelectionViaNames">
+      <HookedEntry>SysprogsTestHook_SelectTests</HookedEntry>
+      <TestCountExpression>testCount</TestCountExpression>
+      <AddressOfTestArrayExpression>pTests</AddressOfTestArrayExpression>
+      <TestNameExpression>{((testing::TestInfo*){&amp;})-&gt;test_case_name_-&gt;_M_dataplus-&gt;_M_p:s}_{((testing::TestInfo*){&amp;})-&gt;name_-&gt;_M_dataplus-&gt;_M_p:s}</TestNameExpression>
+    </TestSelection>
+    <TestReportChannel xsi:type="LocalSocketTestChannelWithHook">
+      <PipeTimestampVariableName>g_SysprogsTestReportTimestamp</PipeTimestampVariableName>
+      <ChannelSelectionHook>SysprogsTestHook_QueryPipeName</ChannelSelectionHook>
+      <PipeNameAreaAddress>&amp;pipeName</PipeNameAreaAddress>
+      <SocketReadyHook>SysprogsTestHook_ReportingSocketReady</SocketReadyHook>
+    </TestReportChannel>
+    <InheritsFromLinux>true</InheritsFromLinux>
+    <UsesSTL>true</UsesSTL>
+    <UsesExceptions>true</UsesExceptions>
+  </AndroidApp>
+</TestFrameworkDefinition>

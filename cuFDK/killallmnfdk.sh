@@ -1,0 +1,1 @@
+ps -ef | grep mnfdk | awk '{print $2}' | while read p; do kill -9 $p ; done
